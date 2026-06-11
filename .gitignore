@@ -3,6 +3,7 @@ __pycache__/
 *.pyc
 
 configs/config.yaml
+configs/API_KEY.txt
 
 *.safetensors
 *.bin
