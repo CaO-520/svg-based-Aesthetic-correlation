@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="5" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#0000FF"/>
+    </marker>
+  </defs>
+  <rect x="100" y="150" width="200" height="40" fill="#CCCCCC" stroke="#000000" stroke-width="1"/>
+  <text x="200" y="175" font-family="Arial" font-size="14" text-anchor="middle" dominant-baseline="middle">The db-lib API</text>
+  
+  <rect x="400" y="50" width="180" height="40" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+  <text x="490" y="70" font-family="Arial" font-size="14" text-anchor="middle" dominant-baseline="middle">Remote Procedure functions</text>
+  
+  <rect x="400" y="110" width="180" height="40" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+  <text x="490" y="130" font-family="Arial" font-size="14" text-anchor="middle" dominant-baseline="middle">Money functions</text>
+  
+  <rect x="400" y="170" width="180" height="40" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+  <text x="490" y="190" font-family="Arial" font-size="14" text-anchor="middle" dominant-baseline="middle">Internals</text>
+  
+  <rect x="400" y="230" width="180" height="40" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+  <text x="490" y="250" font-family="Arial" font-size="14" text-anchor="middle" dominant-baseline="middle">Primary functions</text>
+  
+  <rect x="400" y="290" width="180" height="40" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+  <text x="490" y="310" font-family="Arial" font-size="14" text-anchor="middle" dominant-baseline="middle">Datetime functions</text>
+  
+  <rect x="400" y="350" width="180" height="40" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+  <text x="490" y="370" font-family="Arial" font-size="14" text-anchor="middle" dominant-baseline="middle">Unimplemented</text>
+  
+  <rect x="400" y="410" width="180" height="40" fill="#FFFFFF" stroke="#000000" stroke-width="1"/>
+  <text x="490" y="430" font-family="Arial" font-size="14" text-anchor="middle" dominant-baseline="middle">Bulk copy functions</text>
+  
+  <path d="M 220,70 C 260,170 300,150 300,150" stroke="#0000FF" stroke-width="1.5" fill="none" marker-end="url(#arrow)"/>
+  <path d="M 220,130 C 260,170 300,156.67 300,156.67" stroke="#0000FF" stroke-width="1.5" fill="none" marker-end="url(#arrow)"/>
+  <path d="M 220,190 C 260,170 300,163.33 300,163.33" stroke="#0000FF" stroke-width="1.5" fill="none" marker-end="url(#arrow)"/>
+  <path d="M 220,250 C 260,170 300,170 300,170" stroke="#0000FF" stroke-width="1.5" fill="none" marker-end="url(#arrow)"/>
+  <path d="M 220,310 C 260,170 300,176.67 300,176.67" stroke="#0000FF" stroke-width="1.5" fill="none" marker-end="url(#arrow)"/>
+  <path d="M 220,370 C 260,170 300,183.33 300,183.33" stroke="#0000FF" stroke-width="1.5" fill="none" marker-end="url(#arrow)"/>
+  <path d="M 220,430 C 260,170 300,190 300,190" stroke="#0000FF" stroke-width="1.5" fill="none" marker-end="url(#arrow)"/>
+</svg>

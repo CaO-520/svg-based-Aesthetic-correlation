@@ -1,0 +1,14 @@
+<svg viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#9e9e9e" d="M70 70 L210 70 L230 110 L230 190 L160 210 L60 190 Z"/>
+  <path fill="#ff4d4d" d="M130 40 L210 40 L210 70 L130 70 Z"/>
+  <path fill="#ff4d4d" d="M230 110 L260 110 L260 220 L210 220 L210 150 L230 110 Z"/>
+  <path fill="#b3e0ea" d="M160 20 L260 20 L260 40 L160 40 Z"/>
+  <path fill="#00b4d8" d="M40 70 L100 70 L100 140 L40 140 Z"/>
+  <path fill="#00b4d8" d="M40 140 L100 140 L100 210 L40 210 Z"/>
+  <path fill="#9c27b0" d="M100 190 L190 190 L190 240 L100 240 Z"/>
+  <path fill="#ffd600" d="M190 190 L230 190 L230 270 L190 270 Z"/>
+  <path fill="#4caf50" d="M230 240 L260 240 L260 270 L230 270 Z"/>
+  <path fill="#b3e0ea" d="M40 240 L150 240 L150 290 L40 290 Z"/>
+  <path fill="#b3e0ea" d="M200 270 L280 270 L280 290 L200 290 Z"/>
+  <path fill="#b3e0ea" d="M40 60 L70 90 L40 90 Z"/>
+</svg>

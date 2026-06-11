@@ -1,0 +1,22 @@
+<svg viewBox="0 0 100 150" xmlns="http://www.w3.org/2000/svg">
+  <path d="M 20,30 A 10,10 0 0,1 40,30 L 60,30 A 10,10 0 0,1 80,30 L 50,140 Z" fill="#A0522D"/>
+  <rect x="25" y="40" width="10" height="10" transform="rotate(45 30 45)" fill="#8B4513"/>
+  <rect x="45" y="40" width="10" height="10" transform="rotate(45 50 45)" fill="#8B4513"/>
+  <rect x="65" y="40" width="10" height="10" transform="rotate(45 70 45)" fill="#8B4513"/>
+  <rect x="25" y="60" width="10" height="10" transform="rotate(45 30 65)" fill="#8B4513"/>
+  <rect x="45" y="60" width="10" height="10" transform="rotate(45 50 65)" fill="#8B4513"/>
+  <rect x="65" y="60" width="10" height="10" transform="rotate(45 70 65)" fill="#8B4513"/>
+  <rect x="25" y="80" width="10" height="10" transform="rotate(45 30 85)" fill="#8B4513"/>
+  <rect x="45" y="80" width="10" height="10" transform="rotate(45 50 85)" fill="#8B4513"/>
+  <rect x="65" y="80" width="10" height="10" transform="rotate(45 70 85)" fill="#8B4513"/>
+  <circle cx="50" cy="25" r="25" fill="#FFA500"/>
+  <path d="M 50,50 C 55,55 60,60 55,65 C 50,70 45,65 40,60 C 35,55 30,50 35,45 L 40,40 Z" fill="#FFA500"/>
+  <circle cx="55" cy="65" r="5" fill="#FFA500"/>
+  <circle cx="35" cy="20" r="3" fill="#8B4513"/>
+  <circle cx="45" cy="10" r="3" fill="#8B4513"/>
+  <circle cx="55" cy="15" r="3" fill="#8B4513"/>
+  <circle cx="65" cy="25" r="3" fill="#8B4513"/>
+  <circle cx="40" cy="30" r="3" fill="#8B4513"/>
+  <circle cx="60" cy="10" r="3" fill="#8B4513"/>
+  <circle cx="30" cy="25" r="3" fill="#8B4513"/>
+</svg>

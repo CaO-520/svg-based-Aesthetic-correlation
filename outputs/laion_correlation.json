@@ -1,0 +1,22 @@
+{
+  "human_design": {
+    "n": 291,
+    "pearson": 0.3927,
+    "spearman": 0.3678
+  },
+  "degraded": {
+    "n": 286,
+    "pearson": 0.6349,
+    "spearman": 0.6395
+  },
+  "model_generated": {
+    "n": 287,
+    "pearson": 0.298,
+    "spearman": 0.298
+  },
+  "overall": {
+    "n": 864,
+    "pearson": 0.5192,
+    "spearman": 0.5219
+  }
+}

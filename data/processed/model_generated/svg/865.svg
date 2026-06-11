@@ -1,0 +1,12 @@
+<svg viewBox="0 0 300 250" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="50" cy="80" r="15" fill="#FFA500"/>
+  <circle cx="20" cy="110" r="15" fill="#FFA500"/>
+  <circle cx="80" cy="110" r="15" fill="#FFA500"/>
+  <polygon points="50,140 30,170 70,170" fill="#FFA500"/>
+  <circle cx="200" cy="100" r="40" stroke="black" fill="none" stroke-width="4"/>
+  <path d="M 190 70 A 30 30 0 0 1 190 130" stroke="black" fill="none" stroke-width="4"/>
+  <path d="M 210 70 A 30 30 0 0 0 210 130" stroke="black" fill="none" stroke-width="4"/>
+  <path d="M 160 180 A 40 40 0 0 0 240 180" stroke="black" fill="none" stroke-width="4"/>
+  <path d="M 190 180 A 30 30 0 0 0 160 150" stroke="black" fill="none" stroke-width="4"/>
+  <path d="M 210 180 A 30 30 0 0 1 240 150" stroke="black" fill="none" stroke-width="4"/>
+</svg>

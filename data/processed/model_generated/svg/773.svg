@@ -1,0 +1,11 @@
+<svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+  <path d="M150,10 C200,30 220,80 220,150 C220,220 200,270 150,290 C100,270 80,220 80,150 C80,80 100,30 150,10 Z" fill="none" stroke="black" stroke-width="5"/>
+  <rect x="135" y="285" width="30" height="15" fill="black"/>
+  <path d="M150,130 L130,90 L150,70 L170,90 Z" fill="black"/>
+  <ellipse cx="50" cy="50" rx="10" ry="5" fill="black" transform="rotate(-45 50 50)"/>
+  <ellipse cx="30" cy="100" rx="10" ry="5" fill="black"/>
+  <ellipse cx="50" cy="150" rx="10" ry="5" fill="black" transform="rotate(45 50 150)"/>
+  <ellipse cx="250" cy="50" rx="10" ry="5" fill="black" transform="rotate(45 250 50)"/>
+  <ellipse cx="270" cy="100" rx="10" ry="5" fill="black"/>
+  <ellipse cx="250" cy="150" rx="10" ry="5" fill="black" transform="rotate(-45 250 150)"/>
+</svg>

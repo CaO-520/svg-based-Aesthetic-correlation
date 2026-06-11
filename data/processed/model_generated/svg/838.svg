@@ -1,0 +1,5 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <path d="M10 40 L20 30 L40 30 L50 40 L40 50 L20 50 Z" fill="#0D1B3D"/>
+  <path d="M0 30 L10 20 L30 20 L40 30 L30 40 L10 40 Z" fill="#6A5AF9"/>
+  <path d="M20 20 L30 10 L50 10 L60 20 L50 30 L30 30 Z" fill="#FF6B9B"/>
+</svg>

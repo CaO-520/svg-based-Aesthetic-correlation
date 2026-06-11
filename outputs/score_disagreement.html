@@ -1,0 +1,850 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Human vs Model Score Review</title>
+  <style>
+    :root { --bg: #f5f5f2; --ink: #202124; --muted: #686a6f; --line: #d9d9d2; --panel: #ffffff; --accent: #275c84; }
+    body { margin: 0; background: var(--bg); color: var(--ink); font-family: Arial, Helvetica, sans-serif; }
+    header { border-bottom: 1px solid var(--line); padding: 24px 28px 18px; }
+    h1 { font-size: 24px; font-weight: 700; margin: 0 0 8px; }
+    p { color: var(--muted); line-height: 1.45; margin: 0; max-width: 1040px; }
+    main { padding: 20px 28px 40px; }
+    section { margin: 0 0 46px; }
+    h2 { border-bottom: 1px solid var(--line); font-size: 19px; margin: 0 0 16px; padding-bottom: 8px; }
+    h3 { color: var(--muted); font-size: 14px; letter-spacing: 0; margin: 18px 0 10px; }
+    .grid { display: grid; gap: 14px; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); }
+    .card { background: var(--panel); border: 1px solid var(--line); display: grid; gap: 10px; padding: 10px; position: relative; }
+    .rank { background: var(--accent); color: white; font-size: 13px; font-weight: 700; left: 10px; padding: 4px 7px; position: absolute; top: 10px; }
+    img { aspect-ratio: 1 / 1; background: #fff; border: 1px solid var(--line); object-fit: contain; width: 100%; }
+    dl { display: grid; gap: 5px; margin: 0; }
+    dl div { display: flex; justify-content: space-between; gap: 10px; }
+    dt { color: var(--muted); font-size: 12px; }
+    dd { font-size: 12px; font-weight: 700; margin: 0; overflow-wrap: anywhere; text-align: right; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Human vs Model Score Review</h1>
+    <p>Scores are converted to within-category percentile ranks. Directed groups show where one scorer ranked an image much higher than the other. Consistent high/low groups use the mean of human and model percentile ranks.</p>
+  </header>
+  <main>
+      <section>
+        <h2>Human Design</h2>
+        <h3>Human Rated Higher Than Model: Top 5</h3>
+        <div class="grid">
+          <article class="card">
+            <div class="rank">#1</div>
+            <img src="../data/processed/human_design/png/198.png" alt="" loading="lazy" />
+            <dl>
+              <div><dt>File</dt><dd>198.png</dd></div>
+              <div><dt>Human</dt><dd>9</dd></div>
+              <div><dt>Model</dt><dd>3.83</dd></div>
+              <div><dt>Human pct</dt><dd>0.995</dd></div>
+              <div><dt>Model pct</dt><dd>0.021</dd></div>
+              <div><dt>H - M pct</dt><dd>0.974</dd></div>
+            </dl>
+          </article>
+        
+          <article class="card">
+            <div class="rank">#2</div>
+            <img src="../data/processed/human_design/png/156.png" alt="" loading="lazy" />
+            <dl>
+              <div><dt>File</dt><dd>156.png</dd></div>
+              <div><dt>Human</dt><dd>8</dd></div>
+              <div><dt>Model</dt><dd>3.97</dd></div>
+              <div><dt>Human pct</dt><dd>0.955</dd></div>
+              <div><dt>Model pct</dt><dd>0.040</dd></div>
+              <div><dt>H - M pct</dt><dd>0.916</dd></div>
+            </dl>
+          </article>
+        
+          <article class="card">
+            <div class="rank">#3</div>
+            <img src="../data/processed/human_design/png/65.png" alt="" loading="lazy" />
+            <dl>
+              <div><dt>File</dt><dd>65.png</dd></div>
+              <div><dt>Human</dt><dd>8</dd></div>
+              <div><dt>Model</dt><dd>4.06</dd></div>
+              <div><dt>Human pct</dt><dd>0.955</dd></div>
+              <div><dt>Model pct</dt><dd>0.071</dd></div>
+              <div><dt>H - M pct</dt><dd>0.884</dd></div>
+            </dl>
+          </article>
+        
+          <article class="card">
+            <div class="rank">#4</div>
+            <img src="../data/processed/human_design/png/173.png" alt="" loading="lazy" />
+            <dl>
+              <div><dt>File</dt><dd>173.png</dd></div>
+              <div><dt>Human</dt><dd>7</dd></div>
+              <div><dt>Model</dt><dd>3.93</dd></div>
+              <div><dt>Human pct</dt><dd>0.819</dd></div>
+              <div><dt>Model pct</dt><dd>0.034</dd></div>
+              <div><dt>H - M pct</dt><dd>0.784</dd></div>
+            </dl>
+          </article>
+        
+          <article class="card">
+            <div class="rank">#5</div>
+            <img src="../data/processed/human_design/png/231.png" alt="" loading="lazy" />
+            <dl>
+              <div><dt>File</dt><dd>231.png</dd></div>
+              <div><dt>Human</dt><dd>7</dd></div>
+              <div><dt>Model</dt><dd>4.04</dd></div>
+              <div><dt>Human pct</dt><dd>0.819</dd></div>
+              <div><dt>Model pct</dt><dd>0.057</dd></div>
+              <div><dt>H - M pct</dt><dd>0.762</dd></div>
+            </dl>
+          </article>
+        </div>
+        <h3>Model Rated Higher Than Human: Top 5</h3>
+        <div class="grid">
+          <article class="card">
+            <div class="rank">#1</div>
+            <img src="../data/processed/human_design/png/135.png" alt="" loading="lazy" />
+            <dl>
+              <div><dt>File</dt><dd>135.png</dd></div>
+              <div><dt>Human</dt><dd>2</dd></div>
+              <div><dt>Model</dt><dd>4.99</dd></div>
+              <div><dt>Human pct</dt><dd>0.026</dd></div>
+              <div><dt>Model pct</dt><dd>0.824</dd></div>
+              <div><dt>M - H pct</dt><dd>0.798</dd></div>
+            </dl>
+          </article>
+        
+          <article class="card">
+            <div class="rank">#2</div>
+            <img src="../data/processed/human_design/png/116.png" alt="" loading="lazy" />
+            <dl>
+              <div><dt>File</dt><dd>116.png</dd></div>
+              <div><dt>Human</dt><dd>3</dd></div>
+              <div><dt>Model</dt><dd>5.02</dd></div>
+              <div><dt>Human pct</dt><dd>0.079</dd></div>
+              <div><dt>Model pct</dt><dd>0.847</dd></div>
+              <div><dt>M - H pct</dt><dd>0.767</dd></div>
+            </dl>
+          </article>
+        
+          <article class="card">
+            <div class="rank">#3</div>
+            <img src="../data/processed/human_design/png/199.png" alt="" loading="lazy" />
+            <dl>
+              <div><dt>File</dt><dd>199.png</dd></div>
+              <div><dt>Human</dt><dd>4</dd></div>
+              <div><dt>Model</dt><dd>5.15</dd></div>
+              <div><dt>Human pct</dt><dd>0.152</dd></div>
+              <div><dt>Model pct</dt><dd>0.912</dd></div>
+              <div><dt>M - H pct</dt><dd>0.760</dd></div>
+            </dl>
+          </article>
+        
+          <article class="card">
+            <div class="rank">#4</div>
+            <img src="../data/processed/human_design/png/277.png" alt="" loading="lazy" />
+            <dl>
+              <div><dt>File</dt><dd>277.png</dd></div>
+              <div><dt>Human</dt><dd>4</dd></div>
+              <div><dt>Model</dt><dd>5.07</dd></div>
+              <div><dt>Human pct</dt><dd>0.152</dd></div>
+              <div><dt>Model pct</dt><dd>0.878</dd></div>
+              <div><dt>M - H pct</dt><dd>0.726</dd></div>
+            </dl>
+          </article>
+        
+          <article class="card">
+            <div class="rank">#5</div>
+            <img src="../data/processed/human_design/png/61.png" alt="" loading="lazy" />
+            <dl>
+              <div><dt>File</dt><dd>61.png</dd></div>
+              <div><dt>Human</dt><dd>5</dd></div>
+              <div><dt>Model</dt><dd>5.20</dd></div>
+              <div><dt>Human pct</dt><dd>0.276</dd></div>
+              <div><dt>Model pct</dt><dd>0.940</dd></div>
+              <div><dt>M - H pct</dt><dd>0.664</dd></div>
+            </dl>
+          </article>
+        </div>
+        <h3>Consistent High Scores: Top 5</h3>
+        <div class="grid">
+          <article class="card">
+            <div class="rank">#1</div>
+            <img src="../data/processed/human_design/png/108.png" alt="" loading="lazy" />
+            <dl>
+              <div><dt>File</dt><dd>108.png</dd></div>
+              <div><dt>Human</dt><dd>9</dd></div>
+              <div><dt>Model</dt><dd>5.38</dd></div>
+              <div><dt>Human pct</dt><dd>0.995</dd></div>
+              <div><dt>Model pct</dt><dd>0.984</dd></div>
+              <div><dt>Mean pct</dt><dd>0.990</dd></div>
+            </dl>
+          </article>
+        
+          <article class="card">
+            <div class="rank">#2</div>
+            <img src="../data/processed/human_design/png/289.png" alt="" loading="lazy" />
+            <dl>
+              <div><dt>File</dt><dd>289.png</dd></div>
+              <div><dt>Human</dt><dd>8</dd></div>
+              <div><dt>Model</dt><dd>5.58</dd></div>
+              <div><dt>Human pct</dt><dd>0.955</dd></div>
+              <div><dt>Model pct</dt><dd>1.000</dd></div>
+              <div><dt>Mean pct</dt><dd>0.978</dd></div>
+            </dl>
+          </article>
+        
+          <article class="card">
+            <div class="rank">#3</div>
+            <img src="../data/processed/human_design/png/106.png" alt="" loading="lazy" />
+            <dl>
+              <div><dt>File</dt><dd>106.png</dd></div>
+              <div><dt>Human</dt><dd>8</dd></div>
+              <div><dt>Model</dt><dd>5.56</dd></div>
+              <div><dt>Human pct</dt><dd>0.955</dd></div>
+              <div><dt>Model pct</dt><dd>0.997</dd></div>
+              <div><dt>Mean pct</dt><dd>0.976</dd></div>
+            </dl>
+          </article>
+        
+          <article class="card">
+            <div class="rank">#4</div>
+            <img src="../data/processed/human_design/png/232.png" alt="" loading="lazy" />
+            <dl>
+              <div><dt>File</dt><dd>232.png</dd></div>
+              <div><dt>Human</dt><dd>8</dd></div>
+              <div><dt>Model</dt><dd>5.22</dd></div>
+              <div><dt>Human pct</dt><dd>0.955</dd></div>
+              <div><dt>Model pct</dt><dd>0.948</dd></div>
+              <div><dt>Mean pct</dt><dd>0.952</dd></div>
+            </dl>
+          </article>
+        
+          <article class="card">
+            <div class="rank">#5</div>
+            <img src="../data/processed/human_design/png/45.png" alt="" loading="lazy" />
+            <dl>
+              <div><dt>File</dt><dd>45.png</dd></div>
+              <div><dt>Human</dt><dd>8</dd></div>
+              <div><dt>Model</dt><dd>5.20</dd></div>
+              <div><dt>Human pct</dt><dd>0.955</dd></div>
+              <div><dt>Model pct</dt><dd>0.940</dd></div>
+              <div><dt>Mean pct</dt><dd>0.947</dd></div>
+            </dl>
+          </article>
+        </div>
+        <h3>Consistent Low Scores: Top 5</h3>
+        <div class="grid">
+          <article class="card">
+            <div class="rank">#1</div>
+            <img src="../data/processed/human_design/png/77.png" alt="" loading="lazy" />
+            <dl>
+              <div><dt>File</dt><dd>77.png</dd></div>
+              <div><dt>Human</dt><dd>1</dd></div>
+              <div><dt>Model</dt><dd>3.35</dd></div>
+              <div><dt>Human pct</dt><dd>0.005</dd></div>
+              <div><dt>Model pct</dt><dd>0.007</dd></div>
+              <div><dt>Mean pct</dt><dd>0.006</dd></div>
+            </dl>
+          </article>
+        
+          <article class="card">
+            <div class="rank">#2</div>
+            <img src="../data/processed/human_design/png/223.png" alt="" loading="lazy" />
+            <dl>
+              <div><dt>File</dt><dd>223.png</dd></div>
+              <div><dt>Human</dt><dd>2</dd></div>
+              <div><dt>Model</dt><dd>3.12</dd></div>
+              <div><dt>Human pct</dt><dd>0.026</dd></div>
+              <div><dt>Model pct</dt><dd>0.000</dd></div>
+              <div><dt>Mean pct</dt><dd>0.013</dd></div>
+            </dl>
+          </article>
+        
+          <article class="card">
+            <div class="rank">#3</div>
+            <img src="../data/processed/human_design/png/127.png" alt="" loading="lazy" />
+            <dl>
+              <div><dt>File</dt><dd>127.png</dd></div>
+              <div><dt>Human</dt><dd>1</dd></div>
+              <div><dt>Model</dt><dd>3.85</dd></div>
+              <div><dt>Human pct</dt><dd>0.005</dd></div>
+              <div><dt>Model pct</dt><dd>0.024</dd></div>
+              <div><dt>Mean pct</dt><dd>0.015</dd></div>
+            </dl>
+          </article>
+        
+          <article class="card">
+            <div class="rank">#4</div>
+            <img src="../data/processed/human_design/png/165.png" alt="" loading="lazy" />
+            <dl>
+              <div><dt>File</dt><dd>165.png</dd></div>
+              <div><dt>Human</dt><dd>2</dd></div>
+              <div><dt>Model</dt><dd>3.97</dd></div>
+              <div><dt>Human pct</dt><dd>0.026</dd></div>
+              <div><dt>Model pct</dt><dd>0.040</dd></div>
+              <div><dt>Mean pct</dt><dd>0.033</dd></div>
+            </dl>
+          </article>
+        
+          <article class="card">
+            <div class="rank">#5</div>
+            <img src="../data/processed/human_design/png/147.png" alt="" loading="lazy" />
+            <dl>
+              <div><dt>File</dt><dd>147.png</dd></div>
+              <div><dt>Human</dt><dd>3</dd></div>
+              <div><dt>Model</dt><dd>3.60</dd></div>
+              <div><dt>Human pct</dt><dd>0.079</dd></div>
+              <div><dt>Model pct</dt><dd>0.014</dd></div>
+              <div><dt>Mean pct</dt><dd>0.047</dd></div>
+            </dl>
+          </article>
+        </div>
+      </section>
+    
+      <section>
+        <h2>Degraded</h2>
+        <h3>Human Rated Higher Than Model: Top 5</h3>
+        <div class="grid">
+          <article class="card">
+            <div class="rank">#1</div>
+            <img src="../data/processed/degraded/png/318.png" alt="" loading="lazy" />
+            <dl>
+              <div><dt>File</dt><dd>318.png</dd></div>
+              <div><dt>Human</dt><dd>6</dd></div>
+              <div><dt>Model</dt><dd>3.56</dd></div>
+              <div><dt>Human pct</dt><dd>0.912</dd></div>
+              <div><dt>Model pct</dt><dd>0.074</dd></div>
+              <div><dt>H - M pct</dt><dd>0.839</dd></div>
+            </dl>
+          </article>
+        
+          <article class="card">
+            <div class="rank">#2</div>
+            <img src="../data/processed/degraded/png/327.png" alt="" loading="lazy" />
+            <dl>
+              <div><dt>File</dt><dd>327.png</dd></div>
+              <div><dt>Human</dt><dd>6</dd></div>
+              <div><dt>Model</dt><dd>3.90</dd></div>
+              <div><dt>Human pct</dt><dd>0.912</dd></div>
+              <div><dt>Model pct</dt><dd>0.147</dd></div>
+              <div><dt>H - M pct</dt><dd>0.765</dd></div>
+            </dl>
+          </article>
+        
+          <article class="card">
+            <div class="rank">#3</div>
+            <img src="../data/processed/degraded/png/407.png" alt="" loading="lazy" />
+            <dl>
+              <div><dt>File</dt><dd>407.png</dd></div>
+              <div><dt>Human</dt><dd>6</dd></div>
+              <div><dt>Model</dt><dd>3.94</dd></div>
+              <div><dt>Human pct</dt><dd>0.912</dd></div>
+              <div><dt>Model pct</dt><dd>0.170</dd></div>
+              <div><dt>H - M pct</dt><dd>0.742</dd></div>
+            </dl>
+          </article>
+        
+          <article class="card">
+            <div class="rank">#4</div>
+            <img src="../data/processed/degraded/png/310.png" alt="" loading="lazy" />
+            <dl>
+              <div><dt>File</dt><dd>310.png</dd></div>
+              <div><dt>Human</dt><dd>5</dd></div>
+              <div><dt>Model</dt><dd>3.62</dd></div>
+              <div><dt>Human pct</dt><dd>0.816</dd></div>
+              <div><dt>Model pct</dt><dd>0.081</dd></div>
+              <div><dt>H - M pct</dt><dd>0.735</dd></div>
+            </dl>
+          </article>
+        
+          <article class="card">
+            <div class="rank">#5</div>
+            <img src="../data/processed/degraded/png/537.png" alt="" loading="lazy" />
+            <dl>
+              <div><dt>File</dt><dd>537.png</dd></div>
+              <div><dt>Human</dt><dd>6</dd></div>
+              <div><dt>Model</dt><dd>3.97</dd></div>
+              <div><dt>Human pct</dt><dd>0.912</dd></div>
+              <div><dt>Model pct</dt><dd>0.189</dd></div>
+              <div><dt>H - M pct</dt><dd>0.723</dd></div>
+            </dl>
+          </article>
+        </div>
+        <h3>Model Rated Higher Than Human: Top 5</h3>
+        <div class="grid">
+          <article class="card">
+            <div class="rank">#1</div>
+            <img src="../data/processed/degraded/png/410.png" alt="" loading="lazy" />
+            <dl>
+              <div><dt>File</dt><dd>410.png</dd></div>
+              <div><dt>Human</dt><dd>1</dd></div>
+              <div><dt>Model</dt><dd>4.69</dd></div>
+              <div><dt>Human pct</dt><dd>0.067</dd></div>
+              <div><dt>Model pct</dt><dd>0.858</dd></div>
+              <div><dt>M - H pct</dt><dd>0.791</dd></div>
+            </dl>
+          </article>
+        
+          <article class="card">
+            <div class="rank">#2</div>
+            <img src="../data/processed/degraded/png/457.png" alt="" loading="lazy" />
+            <dl>
+              <div><dt>File</dt><dd>457.png</dd></div>
+              <div><dt>Human</dt><dd>1</dd></div>
+              <div><dt>Model</dt><dd>4.64</dd></div>
+              <div><dt>Human pct</dt><dd>0.067</dd></div>
+              <div><dt>Model pct</dt><dd>0.826</dd></div>
+              <div><dt>M - H pct</dt><dd>0.760</dd></div>
+            </dl>
+          </article>
+        
+          <article class="card">
+            <div class="rank">#3</div>
+            <img src="../data/processed/degraded/png/567.png" alt="" loading="lazy" />
+            <dl>
+              <div><dt>File</dt><dd>567.png</dd></div>
+              <div><dt>Human</dt><dd>2</dd></div>
+              <div><dt>Model</dt><dd>5.18</dd></div>
+              <div><dt>Human pct</dt><dd>0.263</dd></div>
+              <div><dt>Model pct</dt><dd>0.982</dd></div>
+              <div><dt>M - H pct</dt><dd>0.719</dd></div>
+            </dl>
+          </article>
+        
+          <article class="card">
+            <div class="rank">#4</div>
+            <img src="../data/processed/degraded/png/355.png" alt="" loading="lazy" />
+            <dl>
+              <div><dt>File</dt><dd>355.png</dd></div>
+              <div><dt>Human</dt><dd>2</dd></div>
+              <div><dt>Model</dt><dd>5.13</dd></div>
+              <div><dt>Human pct</dt><dd>0.263</dd></div>
+              <div><dt>Model pct</dt><dd>0.979</dd></div>
+              <div><dt>M - H pct</dt><dd>0.716</dd></div>
+            </dl>
+          </article>
+        
+          <article class="card">
+            <div class="rank">#5</div>
+            <img src="../data/processed/degraded/png/480.png" alt="" loading="lazy" />
+            <dl>
+              <div><dt>File</dt><dd>480.png</dd></div>
+              <div><dt>Human</dt><dd>1</dd></div>
+              <div><dt>Model</dt><dd>4.44</dd></div>
+              <div><dt>Human pct</dt><dd>0.067</dd></div>
+              <div><dt>Model pct</dt><dd>0.689</dd></div>
+              <div><dt>M - H pct</dt><dd>0.623</dd></div>
+            </dl>
+          </article>
+        </div>
+        <h3>Consistent High Scores: Top 5</h3>
+        <div class="grid">
+          <article class="card">
+            <div class="rank">#1</div>
+            <img src="../data/processed/degraded/png/541.png" alt="" loading="lazy" />
+            <dl>
+              <div><dt>File</dt><dd>541.png</dd></div>
+              <div><dt>Human</dt><dd>10</dd></div>
+              <div><dt>Model</dt><dd>5.26</dd></div>
+              <div><dt>Human pct</dt><dd>1.000</dd></div>
+              <div><dt>Model pct</dt><dd>0.996</dd></div>
+              <div><dt>Mean pct</dt><dd>0.998</dd></div>
+            </dl>
+          </article>
+        
+          <article class="card">
+            <div class="rank">#2</div>
+            <img src="../data/processed/degraded/png/477.png" alt="" loading="lazy" />
+            <dl>
+              <div><dt>File</dt><dd>477.png</dd></div>
+              <div><dt>Human</dt><dd>7</dd></div>
+              <div><dt>Model</dt><dd>5.30</dd></div>
+              <div><dt>Human pct</dt><dd>0.975</dd></div>
+              <div><dt>Model pct</dt><dd>1.000</dd></div>
+              <div><dt>Mean pct</dt><dd>0.988</dd></div>
+            </dl>
+          </article>
+        
+          <article class="card">
+            <div class="rank">#3</div>
+            <img src="../data/processed/degraded/png/487.png" alt="" loading="lazy" />
+            <dl>
+              <div><dt>File</dt><dd>487.png</dd></div>
+              <div><dt>Human</dt><dd>8</dd></div>
+              <div><dt>Model</dt><dd>4.99</dd></div>
+              <div><dt>Human pct</dt><dd>0.995</dd></div>
+              <div><dt>Model pct</dt><dd>0.961</dd></div>
+              <div><dt>Mean pct</dt><dd>0.978</dd></div>
+            </dl>
+          </article>
+        
+          <article class="card">
+            <div class="rank">#4</div>
+            <img src="../data/processed/degraded/png/311.png" alt="" loading="lazy" />
+            <dl>
+              <div><dt>File</dt><dd>311.png</dd></div>
+              <div><dt>Human</dt><dd>7</dd></div>
+              <div><dt>Model</dt><dd>4.96</dd></div>
+              <div><dt>Human pct</dt><dd>0.975</dd></div>
+              <div><dt>Model pct</dt><dd>0.951</dd></div>
+              <div><dt>Mean pct</dt><dd>0.963</dd></div>
+            </dl>
+          </article>
+        
+          <article class="card">
+            <div class="rank">#5</div>
+            <img src="../data/processed/degraded/png/515.png" alt="" loading="lazy" />
+            <dl>
+              <div><dt>File</dt><dd>515.png</dd></div>
+              <div><dt>Human</dt><dd>7</dd></div>
+              <div><dt>Model</dt><dd>4.93</dd></div>
+              <div><dt>Human pct</dt><dd>0.975</dd></div>
+              <div><dt>Model pct</dt><dd>0.944</dd></div>
+              <div><dt>Mean pct</dt><dd>0.960</dd></div>
+            </dl>
+          </article>
+        </div>
+        <h3>Consistent Low Scores: Top 5</h3>
+        <div class="grid">
+          <article class="card">
+            <div class="rank">#1</div>
+            <img src="../data/processed/degraded/png/508.png" alt="" loading="lazy" />
+            <dl>
+              <div><dt>File</dt><dd>508.png</dd></div>
+              <div><dt>Human</dt><dd>1</dd></div>
+              <div><dt>Model</dt><dd>2.67</dd></div>
+              <div><dt>Human pct</dt><dd>0.067</dd></div>
+              <div><dt>Model pct</dt><dd>0.000</dd></div>
+              <div><dt>Mean pct</dt><dd>0.033</dd></div>
+            </dl>
+          </article>
+        
+          <article class="card">
+            <div class="rank">#2</div>
+            <img src="../data/processed/degraded/png/348.png" alt="" loading="lazy" />
+            <dl>
+              <div><dt>File</dt><dd>348.png</dd></div>
+              <div><dt>Human</dt><dd>1</dd></div>
+              <div><dt>Model</dt><dd>3.79</dd></div>
+              <div><dt>Human pct</dt><dd>0.067</dd></div>
+              <div><dt>Model pct</dt><dd>0.119</dd></div>
+              <div><dt>Mean pct</dt><dd>0.093</dd></div>
+            </dl>
+          </article>
+        
+          <article class="card">
+            <div class="rank">#3</div>
+            <img src="../data/processed/degraded/png/595.png" alt="" loading="lazy" />
+            <dl>
+              <div><dt>File</dt><dd>595.png</dd></div>
+              <div><dt>Human</dt><dd>1</dd></div>
+              <div><dt>Model</dt><dd>3.83</dd></div>
+              <div><dt>Human pct</dt><dd>0.067</dd></div>
+              <div><dt>Model pct</dt><dd>0.133</dd></div>
+              <div><dt>Mean pct</dt><dd>0.100</dd></div>
+            </dl>
+          </article>
+        
+          <article class="card">
+            <div class="rank">#4</div>
+            <img src="../data/processed/degraded/png/426.png" alt="" loading="lazy" />
+            <dl>
+              <div><dt>File</dt><dd>426.png</dd></div>
+              <div><dt>Human</dt><dd>1</dd></div>
+              <div><dt>Model</dt><dd>3.94</dd></div>
+              <div><dt>Human pct</dt><dd>0.067</dd></div>
+              <div><dt>Model pct</dt><dd>0.170</dd></div>
+              <div><dt>Mean pct</dt><dd>0.118</dd></div>
+            </dl>
+          </article>
+        
+          <article class="card">
+            <div class="rank">#5</div>
+            <img src="../data/processed/degraded/png/566.png" alt="" loading="lazy" />
+            <dl>
+              <div><dt>File</dt><dd>566.png</dd></div>
+              <div><dt>Human</dt><dd>2</dd></div>
+              <div><dt>Model</dt><dd>2.80</dd></div>
+              <div><dt>Human pct</dt><dd>0.263</dd></div>
+              <div><dt>Model pct</dt><dd>0.004</dd></div>
+              <div><dt>Mean pct</dt><dd>0.133</dd></div>
+            </dl>
+          </article>
+        </div>
+      </section>
+    
+      <section>
+        <h2>Model Generated</h2>
+        <h3>Human Rated Higher Than Model: Top 5</h3>
+        <div class="grid">
+          <article class="card">
+            <div class="rank">#1</div>
+            <img src="../data/processed/model_generated/png/625.png" alt="" loading="lazy" />
+            <dl>
+              <div><dt>File</dt><dd>625.png</dd></div>
+              <div><dt>Human</dt><dd>7</dd></div>
+              <div><dt>Model</dt><dd>3.89</dd></div>
+              <div><dt>Human pct</dt><dd>0.942</dd></div>
+              <div><dt>Model pct</dt><dd>0.066</dd></div>
+              <div><dt>H - M pct</dt><dd>0.876</dd></div>
+            </dl>
+          </article>
+        
+          <article class="card">
+            <div class="rank">#2</div>
+            <img src="../data/processed/model_generated/png/703.png" alt="" loading="lazy" />
+            <dl>
+              <div><dt>File</dt><dd>703.png</dd></div>
+              <div><dt>Human</dt><dd>6</dd></div>
+              <div><dt>Model</dt><dd>3.65</dd></div>
+              <div><dt>Human pct</dt><dd>0.787</dd></div>
+              <div><dt>Model pct</dt><dd>0.012</dd></div>
+              <div><dt>H - M pct</dt><dd>0.774</dd></div>
+            </dl>
+          </article>
+        
+          <article class="card">
+            <div class="rank">#3</div>
+            <img src="../data/processed/model_generated/png/719.png" alt="" loading="lazy" />
+            <dl>
+              <div><dt>File</dt><dd>719.png</dd></div>
+              <div><dt>Human</dt><dd>6</dd></div>
+              <div><dt>Model</dt><dd>3.82</dd></div>
+              <div><dt>Human pct</dt><dd>0.787</dd></div>
+              <div><dt>Model pct</dt><dd>0.049</dd></div>
+              <div><dt>H - M pct</dt><dd>0.738</dd></div>
+            </dl>
+          </article>
+        
+          <article class="card">
+            <div class="rank">#4</div>
+            <img src="../data/processed/model_generated/png/605.png" alt="" loading="lazy" />
+            <dl>
+              <div><dt>File</dt><dd>605.png</dd></div>
+              <div><dt>Human</dt><dd>7</dd></div>
+              <div><dt>Model</dt><dd>4.15</dd></div>
+              <div><dt>Human pct</dt><dd>0.942</dd></div>
+              <div><dt>Model pct</dt><dd>0.212</dd></div>
+              <div><dt>H - M pct</dt><dd>0.731</dd></div>
+            </dl>
+          </article>
+        
+          <article class="card">
+            <div class="rank">#5</div>
+            <img src="../data/processed/model_generated/png/810.png" alt="" loading="lazy" />
+            <dl>
+              <div><dt>File</dt><dd>810.png</dd></div>
+              <div><dt>Human</dt><dd>6</dd></div>
+              <div><dt>Model</dt><dd>3.91</dd></div>
+              <div><dt>Human pct</dt><dd>0.787</dd></div>
+              <div><dt>Model pct</dt><dd>0.073</dd></div>
+              <div><dt>H - M pct</dt><dd>0.713</dd></div>
+            </dl>
+          </article>
+        </div>
+        <h3>Model Rated Higher Than Human: Top 5</h3>
+        <div class="grid">
+          <article class="card">
+            <div class="rank">#1</div>
+            <img src="../data/processed/model_generated/png/832.png" alt="" loading="lazy" />
+            <dl>
+              <div><dt>File</dt><dd>832.png</dd></div>
+              <div><dt>Human</dt><dd>2</dd></div>
+              <div><dt>Model</dt><dd>5.13</dd></div>
+              <div><dt>Human pct</dt><dd>0.063</dd></div>
+              <div><dt>Model pct</dt><dd>0.965</dd></div>
+              <div><dt>M - H pct</dt><dd>0.902</dd></div>
+            </dl>
+          </article>
+        
+          <article class="card">
+            <div class="rank">#2</div>
+            <img src="../data/processed/model_generated/png/878.png" alt="" loading="lazy" />
+            <dl>
+              <div><dt>File</dt><dd>878.png</dd></div>
+              <div><dt>Human</dt><dd>2</dd></div>
+              <div><dt>Model</dt><dd>4.92</dd></div>
+              <div><dt>Human pct</dt><dd>0.063</dd></div>
+              <div><dt>Model pct</dt><dd>0.928</dd></div>
+              <div><dt>M - H pct</dt><dd>0.865</dd></div>
+            </dl>
+          </article>
+        
+          <article class="card">
+            <div class="rank">#3</div>
+            <img src="../data/processed/model_generated/png/746.png" alt="" loading="lazy" />
+            <dl>
+              <div><dt>File</dt><dd>746.png</dd></div>
+              <div><dt>Human</dt><dd>3</dd></div>
+              <div><dt>Model</dt><dd>5.22</dd></div>
+              <div><dt>Human pct</dt><dd>0.215</dd></div>
+              <div><dt>Model pct</dt><dd>0.983</dd></div>
+              <div><dt>M - H pct</dt><dd>0.767</dd></div>
+            </dl>
+          </article>
+        
+          <article class="card">
+            <div class="rank">#4</div>
+            <img src="../data/processed/model_generated/png/753.png" alt="" loading="lazy" />
+            <dl>
+              <div><dt>File</dt><dd>753.png</dd></div>
+              <div><dt>Human</dt><dd>2</dd></div>
+              <div><dt>Model</dt><dd>4.77</dd></div>
+              <div><dt>Human pct</dt><dd>0.063</dd></div>
+              <div><dt>Model pct</dt><dd>0.823</dd></div>
+              <div><dt>M - H pct</dt><dd>0.760</dd></div>
+            </dl>
+          </article>
+        
+          <article class="card">
+            <div class="rank">#5</div>
+            <img src="../data/processed/model_generated/png/820.png" alt="" loading="lazy" />
+            <dl>
+              <div><dt>File</dt><dd>820.png</dd></div>
+              <div><dt>Human</dt><dd>2</dd></div>
+              <div><dt>Model</dt><dd>4.75</dd></div>
+              <div><dt>Human pct</dt><dd>0.063</dd></div>
+              <div><dt>Model pct</dt><dd>0.809</dd></div>
+              <div><dt>M - H pct</dt><dd>0.747</dd></div>
+            </dl>
+          </article>
+        </div>
+        <h3>Consistent High Scores: Top 5</h3>
+        <div class="grid">
+          <article class="card">
+            <div class="rank">#1</div>
+            <img src="../data/processed/model_generated/png/841.png" alt="" loading="lazy" />
+            <dl>
+              <div><dt>File</dt><dd>841.png</dd></div>
+              <div><dt>Human</dt><dd>8</dd></div>
+              <div><dt>Model</dt><dd>5.35</dd></div>
+              <div><dt>Human pct</dt><dd>0.998</dd></div>
+              <div><dt>Model pct</dt><dd>0.993</dd></div>
+              <div><dt>Mean pct</dt><dd>0.996</dd></div>
+            </dl>
+          </article>
+        
+          <article class="card">
+            <div class="rank">#2</div>
+            <img src="../data/processed/model_generated/png/647.png" alt="" loading="lazy" />
+            <dl>
+              <div><dt>File</dt><dd>647.png</dd></div>
+              <div><dt>Human</dt><dd>7</dd></div>
+              <div><dt>Model</dt><dd>5.39</dd></div>
+              <div><dt>Human pct</dt><dd>0.942</dd></div>
+              <div><dt>Model pct</dt><dd>1.000</dd></div>
+              <div><dt>Mean pct</dt><dd>0.971</dd></div>
+            </dl>
+          </article>
+        
+          <article class="card">
+            <div class="rank">#3</div>
+            <img src="../data/processed/model_generated/png/693.png" alt="" loading="lazy" />
+            <dl>
+              <div><dt>File</dt><dd>693.png</dd></div>
+              <div><dt>Human</dt><dd>7</dd></div>
+              <div><dt>Model</dt><dd>5.37</dd></div>
+              <div><dt>Human pct</dt><dd>0.942</dd></div>
+              <div><dt>Model pct</dt><dd>0.997</dd></div>
+              <div><dt>Mean pct</dt><dd>0.969</dd></div>
+            </dl>
+          </article>
+        
+          <article class="card">
+            <div class="rank">#4</div>
+            <img src="../data/processed/model_generated/png/868.png" alt="" loading="lazy" />
+            <dl>
+              <div><dt>File</dt><dd>868.png</dd></div>
+              <div><dt>Human</dt><dd>7</dd></div>
+              <div><dt>Model</dt><dd>5.25</dd></div>
+              <div><dt>Human pct</dt><dd>0.942</dd></div>
+              <div><dt>Model pct</dt><dd>0.990</dd></div>
+              <div><dt>Mean pct</dt><dd>0.966</dd></div>
+            </dl>
+          </article>
+        
+          <article class="card">
+            <div class="rank">#5</div>
+            <img src="../data/processed/model_generated/png/867.png" alt="" loading="lazy" />
+            <dl>
+              <div><dt>File</dt><dd>867.png</dd></div>
+              <div><dt>Human</dt><dd>7</dd></div>
+              <div><dt>Model</dt><dd>5.23</dd></div>
+              <div><dt>Human pct</dt><dd>0.942</dd></div>
+              <div><dt>Model pct</dt><dd>0.986</dd></div>
+              <div><dt>Mean pct</dt><dd>0.964</dd></div>
+            </dl>
+          </article>
+        </div>
+        <h3>Consistent Low Scores: Top 5</h3>
+        <div class="grid">
+          <article class="card">
+            <div class="rank">#1</div>
+            <img src="../data/processed/model_generated/png/602.png" alt="" loading="lazy" />
+            <dl>
+              <div><dt>File</dt><dd>602.png</dd></div>
+              <div><dt>Human</dt><dd>2</dd></div>
+              <div><dt>Model</dt><dd>3.76</dd></div>
+              <div><dt>Human pct</dt><dd>0.063</dd></div>
+              <div><dt>Model pct</dt><dd>0.037</dd></div>
+              <div><dt>Mean pct</dt><dd>0.050</dd></div>
+            </dl>
+          </article>
+        
+          <article class="card">
+            <div class="rank">#2</div>
+            <img src="../data/processed/model_generated/png/774.png" alt="" loading="lazy" />
+            <dl>
+              <div><dt>File</dt><dd>774.png</dd></div>
+              <div><dt>Human</dt><dd>2</dd></div>
+              <div><dt>Model</dt><dd>3.76</dd></div>
+              <div><dt>Human pct</dt><dd>0.063</dd></div>
+              <div><dt>Model pct</dt><dd>0.037</dd></div>
+              <div><dt>Mean pct</dt><dd>0.050</dd></div>
+            </dl>
+          </article>
+        
+          <article class="card">
+            <div class="rank">#3</div>
+            <img src="../data/processed/model_generated/png/632.png" alt="" loading="lazy" />
+            <dl>
+              <div><dt>File</dt><dd>632.png</dd></div>
+              <div><dt>Human</dt><dd>2</dd></div>
+              <div><dt>Model</dt><dd>3.78</dd></div>
+              <div><dt>Human pct</dt><dd>0.063</dd></div>
+              <div><dt>Model pct</dt><dd>0.042</dd></div>
+              <div><dt>Mean pct</dt><dd>0.052</dd></div>
+            </dl>
+          </article>
+        
+          <article class="card">
+            <div class="rank">#4</div>
+            <img src="../data/processed/model_generated/png/692.png" alt="" loading="lazy" />
+            <dl>
+              <div><dt>File</dt><dd>692.png</dd></div>
+              <div><dt>Human</dt><dd>2</dd></div>
+              <div><dt>Model</dt><dd>3.86</dd></div>
+              <div><dt>Human pct</dt><dd>0.063</dd></div>
+              <div><dt>Model pct</dt><dd>0.056</dd></div>
+              <div><dt>Mean pct</dt><dd>0.059</dd></div>
+            </dl>
+          </article>
+        
+          <article class="card">
+            <div class="rank">#5</div>
+            <img src="../data/processed/model_generated/png/848.png" alt="" loading="lazy" />
+            <dl>
+              <div><dt>File</dt><dd>848.png</dd></div>
+              <div><dt>Human</dt><dd>2</dd></div>
+              <div><dt>Model</dt><dd>3.92</dd></div>
+              <div><dt>Human pct</dt><dd>0.063</dd></div>
+              <div><dt>Model pct</dt><dd>0.080</dd></div>
+              <div><dt>Mean pct</dt><dd>0.072</dd></div>
+            </dl>
+          </article>
+        </div>
+      </section>
+    </main>
+</body>
+</html>

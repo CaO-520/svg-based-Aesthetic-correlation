@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300">
+  <text x="150" y="25" font-family="Arial" font-size="18" text-anchor="middle" font-weight="bold">MFG Year</text>
+  <path d="M150,150 L50,150 A100,100 0 0,1 61.8,102.9 Z" fill="#E31937"/>
+  <path d="M150,150 L61.8,102.9 A100,100 0 0,1 89.3,70.5 Z" fill="#7E57C2"/>
+  <path d="M150,150 L89.3,70.5 A100,100 0 0,1 127.6,52.5 Z" fill="#FFD54F"/>
+  <path d="M150,150 L127.6,52.5 A100,100 0 0,1 240,106.4 Z" fill="#FF9800"/>
+  <path d="M150,150 L240,106.4 A100,100 0 0,1 151.2,249.9 Z" fill="#1E88E5"/>
+  <path d="M150,150 L151.2,249.9 A100,100 0 0,1 50,150 Z" fill="#4CAF50"/>
+  <line x1="53" y1="125.7" x2="50" y2="80" stroke="black" stroke-width="1"/>
+  <line x1="73.8" y1="85.3" x2="150" y2="30" stroke="black" stroke-width="1"/>
+  <line x1="107.4" y1="59.5" x2="100" y2="30" stroke="black" stroke-width="1"/>
+  <line x1="193.1" y1="59.8" x2="250" y2="80" stroke="black" stroke-width="1"/>
+  <line x1="235.2" y1="202.3" x2="250" y2="220" stroke="black" stroke-width="1"/>
+  <line x1="79.3" y1="220.7" x2="50" y2="220" stroke="black" stroke-width="1"/>
+  <circle cx="53" cy="125.7" r="2" fill="black"/>
+  <circle cx="73.8" cy="85.3" r="2" fill="black"/>
+  <circle cx="107.4" cy="59.5" r="2" fill="black"/>
+  <circle cx="193.1" cy="59.8" r="2" fill="black"/>
+  <circle cx="235.2" cy="202.3" r="2" fill="black"/>
+  <circle cx="79.3" cy="220.7" r="2" fill="black"/>
+  <text x="50" y="80" font-family="Arial" font-size="12" text-anchor="start">2013 (7.8%)</text>
+  <text x="150" y="30" font-family="Arial" font-size="12" text-anchor="middle">2018 (6.8%)</text>
+  <text x="100" y="30" font-family="Arial" font-size="12" text-anchor="end">2019 (6.8%)</text>
+  <text x="250" y="80" font-family="Arial" font-size="12" text-anchor="end">Others (21.4%)</text>
+  <text x="250" y="220" font-family="Arial" font-size="12" text-anchor="end">2020 (32.0%)</text>
+  <text x="50" y="220" font-family="Arial" font-size="12" text-anchor="start">2021 (25.2%)</text>
+</svg>

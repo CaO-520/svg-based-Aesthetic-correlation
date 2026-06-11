@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 100">
+  <path d="M65,50 L52.5,71.65 L37.5,71.65 L25,50 L37.5,28.35 L52.5,28.35 Z" fill="#e6e6e6"/>
+  <path d="M35,38 L45,28 L55,38 L55,65 C55,70 50,75 45,75 C40,75 35,70 35,65 Z" fill="white" stroke="#4CAF50" stroke-width="1.2"/>
+  <path d="M38,42 L47,42 L47,52 L45,57 L42,52 L38,52 Z" fill="black"/>
+  <path d="M45,35 C47,30 50,28 53,30" fill="none" stroke="#FF5722" stroke-width="1.5"/>
+  <text x="70" y="55" font-family="Arial" font-size="24" fill="black">G</text>
+  <text x="95" y="55" font-family="Arial" font-size="24" fill="black">U</text>
+  <path d="M120,45 L112.5,55 L127.5,55 Z" fill="#FF5722"/>
+  <text x="135" y="55" font-family="Arial" font-size="24" fill="black">R</text>
+  <text x="160" y="55" font-family="Arial" font-size="24" fill="black">D</text>
+</svg>

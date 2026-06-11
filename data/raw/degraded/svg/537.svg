@@ -1,0 +1,33 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="453.543px" height="453.543px" viewBox="0 0 453.543 453.543" enable-background="new 0 0 453.543 453.543"
+	 xml:space="preserve">
+<g id="kvadrat" display="none">
+	
+		<rect x="-453.543" y="445.491" display="inline" fill="none" stroke="#BD1622" stroke-width="0.3359" stroke-miterlimit="10" width="453.543" height="453.543"/>
+	
+		<rect y="445.491" display="inline" fill="none" stroke="#BD1622" stroke-width="0.3359" stroke-miterlimit="10" width="453.543" height="453.543"/>
+	
+		<rect x="453.076" y="445.491" display="inline" fill="none" stroke="#BD1622" stroke-width="0.3359" stroke-miterlimit="10" width="453.543" height="453.543"/>
+</g>
+<g id="Layer_1" display="none">
+</g>
+<g id="Layer_2">
+	<g id="rdeča7bela">
+	</g>
+	
+		<rect x="119.495" y="137.737" fill="#43237A" stroke="#000000" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="214.712" height="190.006"/>
+	
+		<path fill="#662482" stroke="#000000" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M344.979,212.209c-14.777,0-14.777,8.885-29.554,8.885c-14.772,0-14.772-8.885-29.549-8.885c-14.766,0-14.766,8.885-29.528,8.885
+		c-14.768,0-14.768-8.885-29.539-8.885c-14.761,0-14.761,8.885-29.52,8.885c-14.764,0-14.764-8.885-29.528-8.885
+		c-14.758,0-14.758,8.885-29.519,8.885c-14.76,0-14.76-8.885-29.521-8.885l9.5-59.24v-27.57h216.17v27.588L344.979,212.209z"/>
+	
+		<line fill="#E69F02" stroke="#000000" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="119.495" y1="154.694" x2="334.207" y2="154.694"/>
+	
+		<rect x="168.461" y="247.807" fill="#FFFFFF" stroke="#000000" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="116.78" height="54.226"/>
+	<text transform="matrix(1 0 0 1 202.873 285.0244)" font-family="'FiraSans-Medium'" font-size="23">sliva</text>
+</g>
+<g id="pivot" display="none">
+	<circle display="inline" fill="#EC008C" cx="226.851" cy="330.427" r="7.857"/>
+</g>
+</svg>

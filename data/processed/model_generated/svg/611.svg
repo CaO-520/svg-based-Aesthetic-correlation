@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 250" width="600" height="250">
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <path d="M 0,0 L 0,6 L 9,3 z" fill="black" />
+    </marker>
+  </defs>
+  
+  <rect x="10" y="100" width="180" height="50" fill="#cccccc" stroke="black" stroke-width="1" />
+  <rect x="220" y="50" width="180" height="50" fill="white" stroke="black" stroke-width="1" />
+  <rect x="220" y="150" width="180" height="50" fill="white" stroke="black" stroke-width="1" />
+  <rect x="430" y="50" width="180" height="50" fill="white" stroke="black" stroke-width="1" />
+  
+  <line x1="190" y1="125" x2="220" y2="75" stroke="black" stroke-width="1" marker-end="url(#arrow)" />
+  <line x1="190" y1="125" x2="220" y2="175" stroke="black" stroke-width="1" marker-end="url(#arrow)" />
+  <line x1="400" y1="75" x2="430" y2="75" stroke="black" stroke-width="1" marker-end="url(#arrow)" />
+  
+  <text x="100" y="125" text-anchor="middle" dominant-baseline="middle" font-size="12">tbb::internal::allowed_parallelism_control::default_value</text>
+  <text x="310" y="75" text-anchor="middle" dominant-baseline="middle" font-size="12">tbb::internal::governor::default_num_threads</text>
+  <text x="310" y="175" text-anchor="middle" dominant-baseline="middle" font-size="12">tbb::internal::max</text>
+  <text x="520" y="75" text-anchor="middle" dominant-baseline="middle" font-size="12">tbb::internal::AvailableHwConcurrency</text>
+</svg>

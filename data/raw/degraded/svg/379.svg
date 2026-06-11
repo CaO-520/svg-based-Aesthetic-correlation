@@ -1,0 +1,20 @@
+<svg width="13px" height="13px" viewBox="0 0 13 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    
+    <title>close-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Top-bar-Expanded" transform="translate(-54.000000, -39.000000)" fill="#1993EF" fill-rule="nonzero">
+            <g id="Top-bar">
+                <g id="Menu-button" transform="translate(41.000000, 0.000000)">
+                    <g id="close-icon" transform="translate(0.000000, 29.000000)">
+                        <g transform="translate(13.000000, 10.000000)" id="Rectangle-path">
+                            <rect transform="translate(6.500009, 6.499893) rotate(-45.130000) translate(-6.500009, -6.499893) " x="5.13954383" y="-1.2906214" width="2.72093023" height="15.5810291"></rect>
+                            <rect transform="translate(6.500009, 6.500107) rotate(-44.870000) translate(-6.500009, -6.500107) " x="-1.29050559" y="5.13964175" width="15.5810291" height="2.72093023"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

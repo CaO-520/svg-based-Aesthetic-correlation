@@ -1,0 +1,51 @@
+<svg width="196pt" height="208pt"
+ viewBox="0.00 0.00 196.00 208.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 204)">
+<title>Voxel::ToFRawFrameTemplate&lt; PhaseByteType, AmbientByteType &gt;</title>
+
+<g id="node1" class="node"><title>Node1</title>
+<polygon fill="#bfbfbf" stroke="black" points="0,-1 0,-31 188,-31 188,-1 0,-1"/>
+<text text-anchor="start" x="8" y="-19" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::ToFRawFrameTemplate</text>
+<text text-anchor="middle" x="94" y="-8" font-family="Helvetica,sans-Serif" font-size="10.00">&lt; PhaseByteType, AmbientByteType &gt;</text>
+</g>
+
+<g id="node2" class="node"><title>Node2</title>
+<g id="a_node2"><a xlink:href="classVoxel_1_1ToFRawFrame.xhtml" target="_top" xlink:title="Voxel::ToFRawFrame">
+<polygon fill="none" stroke="black" points="37.5,-68.5 37.5,-87.5 150.5,-87.5 150.5,-68.5 37.5,-68.5"/>
+<text text-anchor="middle" x="94" y="-75.5" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::ToFRawFrame</text>
+</a>
+</g>
+</g>
+
+<g id="edge1" class="edge"><title>Node2&#45;&gt;Node1</title>
+<path fill="none" stroke="midnightblue" d="M94,-58.3707C94,-49.5849 94,-39.2721 94,-31.1408"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="90.5001,-58.4034 94,-68.4035 97.5001,-58.4035 90.5001,-58.4034"/>
+</g>
+
+<g id="node3" class="node"><title>Node3</title>
+<g id="a_node3"><a xlink:href="classVoxel_1_1RawFrame.xhtml" target="_top" xlink:title="Voxel::RawFrame">
+<polygon fill="none" stroke="black" points="46.5,-124.5 46.5,-143.5 141.5,-143.5 141.5,-124.5 46.5,-124.5"/>
+<text text-anchor="middle" x="94" y="-131.5" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::RawFrame</text>
+</a>
+</g>
+</g>
+
+<g id="edge2" class="edge"><title>Node3&#45;&gt;Node2</title>
+<path fill="none" stroke="midnightblue" d="M94,-113.805C94,-104.91 94,-94.7798 94,-87.7511"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="90.5001,-114.083 94,-124.083 97.5001,-114.083 90.5001,-114.083"/>
+</g>
+
+<g id="node4" class="node"><title>Node4</title>
+<g id="a_node4"><a xlink:href="classVoxel_1_1Frame.xhtml" target="_top" xlink:title="Voxel::Frame">
+<polygon fill="none" stroke="black" points="56.5,-180.5 56.5,-199.5 131.5,-199.5 131.5,-180.5 56.5,-180.5"/>
+<text text-anchor="middle" x="94" y="-187.5" font-family="Helvetica,sans-Serif" font-size="10.00">Voxel::Frame</text>
+</a>
+</g>
+</g>
+
+<g id="edge3" class="edge"><title>Node4&#45;&gt;Node3</title>
+<path fill="none" stroke="midnightblue" d="M94,-169.805C94,-160.91 94,-150.78 94,-143.751"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="90.5001,-170.083 94,-180.083 97.5001,-170.083 90.5001,-170.083"/>
+</g>
+</g>
+</svg>

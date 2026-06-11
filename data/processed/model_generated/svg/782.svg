@@ -1,0 +1,14 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="starGrad" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+      <stop offset="0%" stop-color="#FFEE00"/>
+      <stop offset="100%" stop-color="#FFA500"/>
+    </radialGradient>
+    <radialGradient id="glowGrad" cx="50%" cy="50%" r="70%" fx="50%" fy="50%">
+      <stop offset="0%" stop-color="#FFFF99"/>
+      <stop offset="100%" stop-color="transparent"/>
+    </radialGradient>
+  </defs>
+  <circle cx="100" cy="100" r="100" fill="url(#glowGrad)"/>
+  <path d="M 100 10 L 120 60 L 170 60 L 130 100 L 140 150 L 100 120 L 60 150 L 70 100 L 30 60 L 80 60 Z" fill="url(#starGrad)"/>
+</svg>

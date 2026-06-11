@@ -1,0 +1,109 @@
+<svg width="756pt" height="168pt"
+ viewBox="0.00 0.00 756.00 168.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 164)">
+<title>PgPostBankBackupStorage::get_database_header</title>
+
+<g id="node1" class="node">
+<title>Node1</title>
+<polygon fill="#bfbfbf" stroke="#000000" points="0,-76.5 0,-108.5 152,-108.5 152,-76.5 0,-76.5"/>
+<text text-anchor="start" x="8" y="-95.5" font-family="FreeSans" font-size="10.00" fill="#000000">PgPostBankBackupStorage</text>
+<text text-anchor="middle" x="76" y="-83.5" font-family="FreeSans" font-size="10.00" fill="#000000">::get_database_header</text>
+</g>
+
+<g id="node2" class="node">
+<title>Node2</title>
+<g id="a_node2"><a xlink:href="../../da/daa/classPgPostBankBackupManager.html#aef9c4fe8b1ac4f3cb7f77bd505b4cc18" target="_top" xlink:title="PgPostBankBackupManager\l::commit">
+<polygon fill="none" stroke="#000000" points="196.5,-127.5 196.5,-159.5 353.5,-159.5 353.5,-127.5 196.5,-127.5"/>
+<text text-anchor="start" x="204.5" y="-146.5" font-family="FreeSans" font-size="10.00" fill="#000000">PgPostBankBackupManager</text>
+<text text-anchor="middle" x="275" y="-134.5" font-family="FreeSans" font-size="10.00" fill="#000000">::commit</text>
+</a>
+</g>
+</g>
+
+<g id="edge1" class="edge">
+<title>Node1&#45;&gt;Node2</title>
+<path fill="none" stroke="#191970" d="M148.4798,-111.0752C169.3883,-116.4337 192.0192,-122.2336 212.2816,-127.4264"/>
+<polygon fill="#191970" stroke="#191970" points="149.2476,-107.6589 138.6917,-108.5667 147.5097,-114.4398 149.2476,-107.6589"/>
+</g>
+
+<g id="node3" class="node">
+<title>Node3</title>
+<g id="a_node3"><a xlink:href="../../da/daa/classPgPostBankBackupManager.html#a235748109f2b58dfa188d3c20d9fbe9a" target="_top" xlink:title="TFile &#45;&gt; Database for official operation use.">
+<polygon fill="none" stroke="#000000" points="196.5,-76.5 196.5,-108.5 353.5,-108.5 353.5,-76.5 196.5,-76.5"/>
+<text text-anchor="start" x="204.5" y="-95.5" font-family="FreeSans" font-size="10.00" fill="#000000">PgPostBankBackupManager</text>
+<text text-anchor="middle" x="275" y="-83.5" font-family="FreeSans" font-size="10.00" fill="#000000">::commitAllBankfromTFile</text>
+</a>
+</g>
+</g>
+
+<g id="edge2" class="edge">
+<title>Node1&#45;&gt;Node3</title>
+<path fill="none" stroke="#191970" d="M162.3675,-92.5C173.6526,-92.5 185.167,-92.5 196.3164,-92.5"/>
+<polygon fill="#191970" stroke="#191970" points="162.0852,-89.0001 152.0852,-92.5 162.0851,-96.0001 162.0852,-89.0001"/>
+</g>
+
+<g id="node4" class="node">
+<title>Node4</title>
+<g id="a_node4"><a xlink:href="../../da/daa/classPgPostBankBackupManager.html#ac991d944f76ee913f18491df3ca45dba" target="_top" xlink:title="PgPostBankBackupManager\l::SQLResultSet2BackupStorage">
+<polygon fill="none" stroke="#000000" points="188,-25.5 188,-57.5 362,-57.5 362,-25.5 188,-25.5"/>
+<text text-anchor="start" x="196" y="-44.5" font-family="FreeSans" font-size="10.00" fill="#000000">PgPostBankBackupManager</text>
+<text text-anchor="middle" x="275" y="-32.5" font-family="FreeSans" font-size="10.00" fill="#000000">::SQLResultSet2BackupStorage</text>
+</a>
+</g>
+</g>
+
+<g id="edge3" class="edge">
+<title>Node1&#45;&gt;Node4</title>
+<path fill="none" stroke="#191970" d="M148.4798,-73.9248C169.3883,-68.5663 192.0192,-62.7664 212.2816,-57.5736"/>
+<polygon fill="#191970" stroke="#191970" points="147.5097,-70.5602 138.6917,-76.4333 149.2476,-77.3411 147.5097,-70.5602"/>
+</g>
+
+<g id="node5" class="node">
+<title>Node5</title>
+<g id="a_node5"><a xlink:href="../../da/daa/classPgPostBankBackupManager.html#a48e85fa7beea90b4d7f828c59b5e5676" target="_top" xlink:title="Database &#45;&gt; TFile for all all records satisifying record_selection.">
+<polygon fill="none" stroke="#000000" points="398,-51.5 398,-83.5 555,-83.5 555,-51.5 398,-51.5"/>
+<text text-anchor="start" x="406" y="-70.5" font-family="FreeSans" font-size="10.00" fill="#000000">PgPostBankBackupManager</text>
+<text text-anchor="middle" x="476.5" y="-58.5" font-family="FreeSans" font-size="10.00" fill="#000000">::fetchAllBank2TFile</text>
+</a>
+</g>
+</g>
+
+<g id="edge4" class="edge">
+<title>Node4&#45;&gt;Node5</title>
+<path fill="none" stroke="#191970" d="M372.2156,-54.0439C380.7657,-55.1472 389.3498,-56.2548 397.7212,-57.335"/>
+<polygon fill="#191970" stroke="#191970" points="372.5746,-50.5613 362.2089,-52.7528 371.6787,-57.5038 372.5746,-50.5613"/>
+</g>
+
+<g id="node6" class="node">
+<title>Node6</title>
+<g id="a_node6"><a xlink:href="../../da/daa/classPgPostBankBackupManager.html#a34f458a7ca1eb1053ac850d99c44adf6" target="_top" xlink:title="PgPostBankBackupManager\l::fetchBank">
+<polygon fill="none" stroke="#000000" points="398,-.5 398,-32.5 555,-32.5 555,-.5 398,-.5"/>
+<text text-anchor="start" x="406" y="-19.5" font-family="FreeSans" font-size="10.00" fill="#000000">PgPostBankBackupManager</text>
+<text text-anchor="middle" x="476.5" y="-7.5" font-family="FreeSans" font-size="10.00" fill="#000000">::fetchBank</text>
+</a>
+</g>
+</g>
+
+<g id="edge5" class="edge">
+<title>Node4&#45;&gt;Node6</title>
+<path fill="none" stroke="#191970" d="M372.2156,-29.4385C380.7657,-28.3777 389.3498,-27.3127 397.7212,-26.274"/>
+<polygon fill="#191970" stroke="#191970" points="371.7018,-25.9753 362.2089,-30.68 372.5638,-32.9221 371.7018,-25.9753"/>
+</g>
+
+<g id="node7" class="node">
+<title>Node7</title>
+<g id="a_node7"><a xlink:href="../../da/daa/classPgPostBankBackupManager.html#a4d8b9019e125378da20dd0542dc614be" target="_top" xlink:title="Database &#45;&gt; TFile for official operation use.">
+<polygon fill="none" stroke="#000000" points="591,-.5 591,-32.5 748,-32.5 748,-.5 591,-.5"/>
+<text text-anchor="start" x="599" y="-19.5" font-family="FreeSans" font-size="10.00" fill="#000000">PgPostBankBackupManager</text>
+<text text-anchor="middle" x="669.5" y="-7.5" font-family="FreeSans" font-size="10.00" fill="#000000">::fetchBank2TFile</text>
+</a>
+</g>
+</g>
+
+<g id="edge6" class="edge">
+<title>Node6&#45;&gt;Node7</title>
+<path fill="none" stroke="#191970" d="M565.0225,-16.5C573.607,-16.5 582.2762,-16.5 590.7559,-16.5"/>
+<polygon fill="#191970" stroke="#191970" points="565.0005,-13.0001 555.0005,-16.5 565.0005,-20.0001 565.0005,-13.0001"/>
+</g>
+</g>
+</svg>

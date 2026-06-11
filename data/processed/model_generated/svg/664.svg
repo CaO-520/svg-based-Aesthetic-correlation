@@ -1,0 +1,6 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <path d="M50 180 A50 50 0 0 1 150 180 L140 70 L110 70 L110 90 L90 90 L90 70 L60 70 L50 180 Z" fill="black"/>
+  <path d="M90 10 H110 V110 H90 Z" fill="black"/>
+  <path d="M50 40 H150 V60 H50 Z" fill="black"/>
+  <path d="M50 130 H150 V150 H50 Z" fill="white"/>
+</svg>

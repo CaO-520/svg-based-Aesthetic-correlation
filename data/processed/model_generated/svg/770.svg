@@ -1,0 +1,10 @@
+<svg width="24" height="24" viewBox="0 0 24 24">
+  <path fill="black" d="M0 0h24v24H0z"/>
+  <path fill="white" d="M4 4 L8 4 C10 4 10 2 12 2 C14 2 14 4 16 4 L20 4 L20 20 L16 20 C14 20 14 22 12 22 C10 22 10 20 8 20 L4 20 Z"/>
+  <rect fill="#aaa" x="5" y="6" width="6" height="2"/>
+  <rect fill="#aaa" x="13" y="6" width="6" height="2"/>
+  <rect fill="#aaa" x="5" y="10" width="6" height="2"/>
+  <rect fill="#aaa" x="13" y="10" width="6" height="2"/>
+  <rect fill="#aaa" x="5" y="14" width="6" height="2"/>
+  <rect fill="#aaa" x="13" y="14" width="6" height="2"/>
+</svg>

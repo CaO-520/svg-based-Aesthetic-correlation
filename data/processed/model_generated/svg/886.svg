@@ -1,0 +1,21 @@
+<svg viewBox="0 0 800 900" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#1A8A4C" d="M100 10h480l120 120v760H100z"/>
+  <path fill="#1A8A4C" d="M700 10l100 100H700z"/>
+  <rect x="150" y="50" width="150" height="20" fill="#1A8A4C"/>
+  <rect x="150" y="80" width="250" height="20" fill="#1A8A4C"/>
+  <rect x="200" y="220" width="40" height="600" fill="#1A8A4C"/>
+  <polygon points="180,220 240,220 210,180" fill="#1A8A4C"/>
+  <rect x="200" y="820" width="40" height="20" fill="#1A8A4C"/>
+  <rect x="350" y="300" width="80" height="600" fill="#1A8A4C"/>
+  <rect x="350" y="350" width="80" height="20" fill="#1A8A4C"/>
+  <rect x="350" y="450" width="80" height="20" fill="#1A8A4C"/>
+  <rect x="350" y="550" width="80" height="20" fill="#1A8A4C"/>
+  <rect x="350" y="650" width="80" height="20" fill="#1A8A4C"/>
+  <rect x="350" y="750" width="80" height="20" fill="#1A8A4C"/>
+  <rect x="550" y="300" width="150" height="20" fill="#1A8A4C"/>
+  <rect x="550" y="350" width="150" height="20" fill="#1A8A4C"/>
+  <rect x="550" y="400" width="150" height="20" fill="#1A8A4C"/>
+  <rect x="550" y="450" width="150" height="20" fill="#1A8A4C"/>
+  <rect x="550" y="500" width="150" height="20" fill="#1A8A4C"/>
+  <rect x="550" y="550" width="150" height="20" fill="#1A8A4C"/>
+</svg>

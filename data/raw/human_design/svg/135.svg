@@ -1,0 +1,19 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 60 450" style="enable-background:new 0 0 60 450;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.7;fill:#5BA374;enable-background:new    ;}
+	.st1{opacity:0.7;fill:#6B3E82;enable-background:new    ;}
+	.st2{opacity:0.8;fill:#B8432E;enable-background:new    ;}
+	.st3{opacity:0.8;fill:#D5A830;enable-background:new    ;}
+</style>
+<g id="wavesleft">
+	<path class="st2" d="M58.6,7.2c-1.8,4.7-3.7,9.4-5.8,14.1C39,52.1,16.9,123.1,23,206.1c15.2-51.9,34.3-104.6,37-158.3V23.1
+		C59.7,17.8,59.3,12.5,58.6,7.2L58.6,7.2z"/>
+	<path class="st3" d="M21,212.8C1.8,279.8-7.9,361.9,29.3,416c8.8,12.8,19.2,22.6,30.7,30.7V340.8C36.8,295.3,26.1,249,23,206.1
+		C22.3,208.3,21.7,210.6,21,212.8z"/>
+	<path class="st2" d="M58.6,7.2c0.7,5.3,1.1,10.6,1.4,15.9V3.4C59.6,4.7,59.1,5.9,58.6,7.2L58.6,7.2z"/>
+	<path class="st3" d="M58.6,7.2c0.7,5.3,1.1,10.6,1.4,15.9V3.4C59.6,4.7,59.1,5.9,58.6,7.2L58.6,7.2z"/>
+	<path class="st2" d="M60,340.8v-293c-2.7,53.8-21.8,106.5-37,158.3C26.1,249.1,36.8,295.3,60,340.8z"/>
+	<path class="st3" d="M60,340.8v-293c-2.7,53.8-21.8,106.5-37,158.3C26.1,249.1,36.8,295.3,60,340.8z"/>
+</g>
+</svg>

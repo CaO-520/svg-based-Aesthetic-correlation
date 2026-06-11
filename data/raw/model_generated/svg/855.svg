@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Referemce for dynamic changes to textPath</title>
+  
+  <defs>
+	  <path id="m1" d="M 75.5 100 h 251"/>
+  </defs>
+	
+  <text>
+	  <textPath xlink:href="#m1" font-size="20" fill="black">Should see this</textPath>
+  </text>
+</svg>

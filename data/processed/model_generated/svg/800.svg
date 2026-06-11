@@ -1,0 +1,7 @@
+<svg viewBox="0 0 400 500" xmlns="http://www.w3.org/2000/svg">
+  <rect x="50" y="50" width="300" height="400" rx="20" fill="#00557f"/>
+  <path d="M70 50 L100 20 L300 20 L330 50 L330 50 L300 50 L300 30 L100 30 L100 50 L70 50 Z" fill="#00557f"/>
+  <rect x="110" y="70" width="20" height="350" fill="white"/>
+  <rect x="190" y="70" width="20" height="350" fill="white"/>
+  <rect x="270" y="70" width="20" height="350" fill="white"/>
+</svg>

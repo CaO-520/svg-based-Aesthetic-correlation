@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 90 90">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #eff1f8;
+      }
+
+      .cls-3 {
+        fill: #f7bc18;
+      }
+
+      .cls-4 {
+        fill: #ffe18d;
+      }
+
+      .cls-5 {
+        fill: #05aded;
+      }
+
+      .cls-6 {
+        fill: #74ceff;
+      }
+
+      .cls-7 {
+        fill: none;
+        stroke: #c49513;
+        stroke-miterlimit: 10;
+        stroke-width: 5px;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f1f3f8"/>
+      <stop offset="1" stop-color="#f1f3f8" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="_1" data-name="1" transform="translate(-836 -1819)">
+    <path id="Path_653" data-name="Path 653" class="cls-1" d="M67.417,0c24.82,0,22.47,20.147,22.47,45S47.3,90,22.477,90,.007,69.853.007,45,42.6,0,67.417,0Z" transform="translate(836.053 1819)"/>
+    <circle id="Ellipse_62" data-name="Ellipse 62" class="cls-2" cx="40" cy="40" r="40" transform="translate(836 1829)"/>
+    <g id="list" transform="translate(781 1829)">
+      <rect id="XMLID_1089_" class="cls-3" width="55" height="73.143" transform="translate(55 6.857)"/>
+      <rect id="XMLID_1090_" class="cls-4" width="20.625" height="6.857" transform="translate(82.5 29.714)"/>
+      <ellipse id="XMLID_1091_" class="cls-5" cx="6.875" cy="6.857" rx="6.875" ry="6.857" transform="translate(75.625)"/>
+      <path id="XMLID_1092_" class="cls-6" d="M151.875,13.714a6.857,6.857,0,1,1,0-13.714" transform="translate(-69.375)"/>
+      <rect id="XMLID_1093_" class="cls-6" width="16.042" height="11.429" transform="translate(66.458 6.857)"/>
+      <rect id="XMLID_1094_" class="cls-5" width="16.042" height="11.429" transform="translate(82.5 6.857)"/>
+      <path id="XMLID_1095_" class="cls-7" d="M85,124.571l4.583,4.571L98.75,120" transform="translate(-23.125 -92.571)"/>
+      <rect id="XMLID_1096_" class="cls-4" width="20.625" height="6.857" transform="translate(82.5 45.714)"/>
+      <path id="XMLID_1097_" class="cls-7" d="M85,194.571l4.583,4.571L98.75,190" transform="translate(-23.125 -146.571)"/>
+      <rect id="XMLID_1098_" class="cls-4" width="20.625" height="6.857" transform="translate(82.5 61.714)"/>
+      <path id="XMLID_1099_" class="cls-7" d="M85,264.571l4.583,4.571L98.75,260" transform="translate(-23.125 -200.571)"/>
+    </g>
+  </g>
+</svg>

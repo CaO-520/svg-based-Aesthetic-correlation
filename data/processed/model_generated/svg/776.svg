@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600">
+  <text x="400" y="40" font-family="Arial" font-size="32" text-anchor="middle" font-weight="bold">Ethernet Model</text>
+  <g transform="translate(400,300)">
+    <path d="M 0 0 L 200 0 A 200 200 0 0 1 124.24 156.5 Z" fill="#FFA500"/>
+    <path d="M 0 0 L 124.24 156.5 A 200 200 0 0 1 -124.24 156.5 Z" fill="#1E90FF"/>
+    <path d="M 0 0 L -124.24 156.5 A 200 200 0 0 1 -184.24 -108.5 Z" fill="#32CD32"/>
+    <path d="M 0 0 L -184.24 -108.5 A 200 200 0 0 1 -84.24 -184.5 Z" fill="#FF0000"/>
+    <path d="M 0 0 L -84.24 -184.5 A 200 200 0 0 1 84.24 -184.5 Z" fill="#FFFF00"/>
+    <path d="M 0 0 L 84.24 -184.5 A 200 200 0 0 1 200 0 Z" fill="#800080"/>
+    <line x1="149.55" y1="185.3" x2="187.87" y2="232.7" stroke="#000" stroke-width="1"/>
+    <text x="187.87" y="232.7" font-family="Arial" font-size="14" text-anchor="start" dominant-baseline="auto">Others (26.3%)</text>
+    <line x1="92.24" y1="116.5" x2="115.91" y2="146.3" stroke="#000" stroke-width="1"/>
+    <text x="115.91" y="146.3" font-family="Arial" font-size="14" text-anchor="start" dominant-baseline="auto">RTL8111/8168/... (28.9%)</text>
+    <line x1="-138.24" y1="116.5" x2="-173.51" y2="146.3" stroke="#000" stroke-width="1"/>
+    <text x="-173.51" y="146.3" font-family="Arial" font-size="14" text-anchor="end" dominant-baseline="auto">Ethernet Conn... (18.4%)</text>
+    <line x1="-138.24" y1="-81.5" x2="-173.51" y2="-102.5" stroke="#000" stroke-width="1"/>
+    <text x="-173.51" y="-102.5" font-family="Arial" font-size="14" text-anchor="end" dominant-baseline="hanging">Ethernet Conn... (15.8%)</text>
+    <line x1="-63.24" y1="-138.5" x2="-79.31" y2="-165.3" stroke="#000" stroke-width="1"/>
+    <text x="-79.31" y="-165.3" font-family="Arial" font-size="14" text-anchor="start" dominant-baseline="hanging">I210 Gigabit ... (5.3%)</text>
+    <line x1="63.24" y1="-138.5" x2="79.31" y2="-165.3" stroke="#000" stroke-width="1"/>
+    <text x="79.31" y="-165.3" font-family="Arial" font-size="14" text-anchor="start" dominant-baseline="hanging">Ethernet Conn... (5.3%)</text>
+  </g>
+</svg>

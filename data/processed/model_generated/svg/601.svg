@@ -1,0 +1,27 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+<text x="200" y="30" font-family="Arial" font-size="20" text-anchor="middle" font-weight="bold">Bluetooth Model</text>
+<path d="M200,150 L200,50 A100,100 0 0,1 259.3,230.5 Z" fill="#FFA500"/>
+<path d="M200,150 L259.3,230.5 A100,100 0 0,1 127.6,219 Z" fill="#0000FF"/>
+<path d="M200,150 L127.6,219 A100,100 0 0,1 103.3,124.6 Z" fill="#008000"/>
+<path d="M200,150 L103.3,124.6 A100,100 0 0,1 128,80.6 Z" fill="#FF0000"/>
+<path d="M200,150 L128,80.6 A100,100 0 0,1 163.2,57 Z" fill="#FFFF00"/>
+<path d="M200,150 L163.2,57 A100,100 0 0,1 200.6,50.0 Z" fill="#800080"/>
+<circle cx="295.1" cy="119.2" r="2" fill="black"/>
+<line x1="295.1" y1="119.2" x2="320" y2="90" stroke="black"/>
+<text x="320" y="90" font-family="Arial" font-size="12">Others (39.9%)</text>
+<circle cx="191.3" cy="249.6" r="2" fill="black"/>
+<line x1="191.3" y1="249.6" x2="220" y2="260" stroke="black"/>
+<text x="220" y="260" font-family="Arial" font-size="12">Bluetooth Don... (23.0%)</text>
+<circle cx="103.4" cy="175.8" r="2" fill="black"/>
+<line x1="103.4" y1="175.8" x2="80" y2="185" stroke="black"/>
+<text x="80" y="185" font-family="Arial" font-size="12">AX200 Bluetooth (16.2%)</text>
+<circle cx="114.3" cy="98.5" r="2" fill="black"/>
+<line x1="114.3" y1="98.5" x2="100" y2="85" stroke="black"/>
+<text x="100" y="85" font-family="Arial" font-size="12">Bluetooth Device (8.1%)</text>
+<circle cx="144" cy="67.1" r="2" fill="black"/>
+<line x1="144" y1="67.1" x2="130" y2="55" stroke="black"/>
+<text x="130" y="55" font-family="Arial" font-size="12">Bluetooth wir... (6.8%)</text>
+<circle cx="181.8" cy="51.7" r="2" fill="black"/>
+<line x1="181.8" y1="51.7" x2="170" y2="40" stroke="black"/>
+<text x="170" y="40" font-family="Arial" font-size="12">Bluetooth Radio (6.1%)</text>
+</svg>

@@ -1,0 +1,43 @@
+<svg width="202px" height="184px" viewBox="0 0 202 184" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    
+    <title>ic-hp_email</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="new_icons" sketch:type="MSArtboardGroup" transform="translate(-354.000000, -305.000000)">
+            <g id="ic-hp_meeting" sketch:type="MSLayerGroup" transform="translate(354.000000, 305.000000)">
+                <rect id="Rectangle-1-Copy" stroke="#E9E9E9" stroke-width="1.34" fill="#FAFAFA" sketch:type="MSShapeGroup" x="0" y="1" width="202" height="182.661818" rx="2.68"></rect>
+                <rect id="Rectangle-49" fill="#FFFFFF" sketch:type="MSShapeGroup" x="1.33774834" y="60.6436364" width="199.324503" height="24.7563636"></rect>
+                <rect id="Rectangle-7-Copy-13" fill="#D8D8D8" sketch:type="MSShapeGroup" x="26" y="144" width="150" height="6"></rect>
+                <rect id="Rectangle-7-Copy-14" fill="#D8D8D8" sketch:type="MSShapeGroup" x="26" y="159" width="20" height="6"></rect>
+                <rect id="Rectangle-2-Copy" stroke="#E8E8E8" stroke-width="1.34" fill="#F0F0F0" sketch:type="MSShapeGroup" x="0" y="0" width="202" height="19.4036364"></rect>
+                <ellipse id="Oval-7-Copy-3" stroke="#E1E5E8" stroke-width="0.67" fill="#F5F5F5" sketch:type="MSShapeGroup" cx="10.0331126" cy="10.0363636" rx="4.01324503" ry="4.01454545"></ellipse>
+                <ellipse id="Oval-7-Copy-4" stroke="#E1E5E8" stroke-width="0.67" fill="#F5F5F5" sketch:type="MSShapeGroup" cx="23.410596" cy="10.0363636" rx="4.01324503" ry="4.01454545"></ellipse>
+                <ellipse id="Oval-7-Copy-5" stroke="#E1E5E8" stroke-width="0.67" fill="#F5F5F5" sketch:type="MSShapeGroup" cx="36.7880795" cy="10.0363636" rx="4.01324503" ry="4.01454545"></ellipse>
+                <text id="Meeting-Request" sketch:type="MSTextLayer" font-family="Helvetica" font-size="12.06" font-weight="normal" fill="#898989">
+                    <tspan x="55" y="104">Hotel Name</tspan>
+                </text>
+                <text id="Meeting-Request" sketch:type="MSTextLayer" font-family="Helvetica" font-size="12.06" font-weight="normal" fill="#898989">
+                    <tspan x="55" y="119">Dates</tspan>
+                </text>
+                 <text id="Meeting-Request" sketch:type="MSTextLayer" font-family="Helvetica" font-size="12.06" font-weight="normal" fill="#898989">
+                    <tspan x="55" y="134">Number of guests</tspan>
+                </text>
+                <text id="Meeting-Request" sketch:type="MSTextLayer" font-family="Helvetica" font-size="12.06" font-weight="normal" fill="#898989">
+                    <tspan x="55" y="44">Forward Confirmation</tspan>
+                </text>
+                <text id="To:" opacity="0.5" sketch:type="MSTextLayer" font-family="Helvetica" font-size="12.06" font-weight="normal" fill="#898989">
+                    <tspan x="6.01986755" y="76.9018182">Cc:</tspan>
+                </text>
+                <rect id="Rectangle-18" fill="#D8D8D8" sketch:type="MSShapeGroup" x="0" y="60.8872727" width="202" height="0.669090909"></rect>
+                <rect id="Rectangle-19" fill="#D8D8D8" sketch:type="MSShapeGroup" x="0" y="107.5" width="202" height="0.669090909"></rect>
+                <rect id="Rectangle-20" fill="#D8D8D8" sketch:type="MSShapeGroup" x="0" y="122.5" width="202" height="0.669090909"></rect>
+                <rect id="Rectangle-18-Copy" fill="#D8D8D8" sketch:type="MSShapeGroup" x="0" y="84.9745455" width="202" height="0.669090909"></rect>
+                <text id="youremail@example.co" sketch:type="MSTextLayer" font-family="Helvetica" font-size="12.06" font-weight="normal" sketch:alignment="right"  fill="#FF4500">
+                    <tspan x="30.7596875" y="77">ashley@theWaylo.com</tspan>
+                </text>
+
+            </g>
+        </g>
+    </g>
+</svg>

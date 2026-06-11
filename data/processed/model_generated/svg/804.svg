@@ -1,0 +1,19 @@
+<svg width="400" height="400" viewBox="0 0 400 400">
+  <circle cx="200" cy="200" r="200" fill="#E95E8C"/>
+  <ellipse cx="200" cy="245" rx="160" ry="30" fill="#F9C24A"/>
+  <ellipse cx="200" cy="240" rx="150" ry="25" fill="white"/>
+  <circle cx="200" cy="130" r="30" fill="white"/>
+  <path d="M170,130 A30,30 0 0,1 230,130 L230,100 A30,30 0 0,0 170,100 Z" fill="#FAD4D4"/>
+  <rect x="170" y="160" width="60" height="80" fill="#F9C24A"/>
+  <path d="M190,180 L210,180 L200,200 Z" fill="#E95E8C"/>
+  <circle cx="130" cy="130" r="30" fill="white"/>
+  <rect x="110" y="100" width="10" height="30" fill="#FAD4D4"/>
+  <rect x="140" y="100" width="10" height="30" fill="#FAD4D4"/>
+  <rect x="100" y="160" width="60" height="80" fill="#F9C24A"/>
+  <circle cx="130" cy="180" r="2" fill="white"/>
+  <circle cx="130" cy="190" r="2" fill="white"/>
+  <circle cx="270" cy="130" r="30" fill="white"/>
+  <path d="M240,130 L270,110 L300,130 L270,120 Z" fill="#FAD4D4"/>
+  <rect x="240" y="160" width="60" height="80" fill="#F9C24A"/>
+  <rect x="260" y="180" width="2" height="20" fill="white"/>
+</svg>

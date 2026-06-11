@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300">
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="black"/>
+    </marker>
+  </defs>
+  <g stroke="black" stroke-width="1" fill="none">
+    <rect x="20" y="100" width="180" height="40" fill="#cccccc"/>
+    <text x="110" y="125" text-anchor="middle" font-size="12" fill="black">NgPostBankBackupStorage</text>
+    <text x="110" y="145" text-anchor="middle" font-size="12" fill="black">- get_database_header</text>
+    
+    <rect x="250" y="100" width="150" height="30" fill="white"/>
+    <text x="325" y="115" text-anchor="middle" font-size="12" fill="black">PgPostBankBackupManager</text>
+    <text x="325" y="130" text-anchor="middle" font-size="12" fill="black">:commit</text>
+    
+    <rect x="250" y="150" width="150" height="30" fill="white"/>
+    <text x="325" y="165" text-anchor="middle" font-size="12" fill="black">PgPostBankBackupManager</text>
+    <text x="325" y="180" text-anchor="middle" font-size="12" fill="black">:commitAllBankFromFile</text>
+    
+    <rect x="250" y="200" width="150" height="30" fill="white"/>
+    <text x="325" y="215" text-anchor="middle" font-size="12" fill="black">PgPostBankBackupManager</text>
+    <text x="325" y="230" text-anchor="middle" font-size="12" fill="black">:2Q1ResultPostBankStorage</text>
+    
+    <rect x="400" y="200" width="150" height="30" fill="white"/>
+    <text x="475" y="215" text-anchor="middle" font-size="12" fill="black">PgPostBankBackupManager</text>
+    <text x="475" y="230" text-anchor="middle" font-size="12" fill="black">:fetchBankFromFile</text>
+    
+    <rect x="550" y="200" width="150" height="30" fill="white"/>
+    <text x="625" y="215" text-anchor="middle" font-size="12" fill="black">PgPostBankBackupManager</text>
+    <text x="625" y="230" text-anchor="middle" font-size="12" fill="black">:fetchBank</text>
+    
+    <rect x="700" y="200" width="150" height="30" fill="white"/>
+    <text x="775" y="215" text-anchor="middle" font-size="12" fill="black">PgPostBankBackupManager</text>
+    <text x="775" y="230" text-anchor="middle" font-size="12" fill="black">:fetchBank2File</text>
+    
+    <path d="M 200 120 L 250 115" stroke="black" fill="none" marker-end="url(#arrow)"/>
+    <path d="M 200 120 L 250 165" stroke="black" fill="none" marker-end="url(#arrow)"/>
+    <path d="M 200 120 L 250 215" stroke="black" fill="none" marker-end="url(#arrow)"/>
+    <path d="M 400 215 L 400 215" stroke="black" fill="none" marker-end="url(#arrow)"/>
+    <path d="M 550 215 L 550 215" stroke="black" fill="none" marker-end="url(#arrow)"/>
+    <path d="M 700 215 L 700 215" stroke="black" fill="none" marker-end="url(#arrow)"/>
+  </g>
+</svg>

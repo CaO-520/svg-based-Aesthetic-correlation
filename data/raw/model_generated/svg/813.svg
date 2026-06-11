@@ -1,0 +1,16 @@
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    
+    <title>5_256</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="5_256" sketch:type="MSArtboardGroup" stroke-linecap="round" stroke="#26a599" stroke-linejoin="round">
+            <g id="patch" sketch:type="MSLayerGroup" transform="translate(1.000000, 53.965517)">
+                <path d="M215.165517,0.472 L37.7310345,0.472 C29.8546207,0.472 23.470069,6.85655172 23.470069,14.7329655 L23.470069,132.572414 L229.426483,132.572414 L229.426483,14.7329655 C229.426483,6.85655172 223.041931,0.472 215.165517,0.472 L215.165517,0.472 Z M221.419862,148.195034 L31.4766897,148.195034 L0.0791724138,132.572414 L252.817379,132.572414 L221.419862,148.195034 L221.419862,148.195034 Z" id="Stroke-1" stroke-width="8" sketch:type="MSShapeGroup"></path>
+                <path d="M37.0888276,118.810207 L215.805517,118.810207 L215.805517,14.232 L37.0888276,14.232 L37.0888276,118.810207 Z" id="Stroke-2" stroke-width="4" sketch:type="MSShapeGroup"></path>
+                <path d="M160.021793,66.5222069 C160.021793,47.9798621 144.990621,32.9486897 126.448276,32.9486897 C107.905931,32.9486897 92.8747586,47.9798621 92.8747586,66.5222069 C92.8747586,85.0623448 107.905931,100.093517 126.448276,100.093517 C144.990621,100.093517 160.021793,85.0623448 160.021793,66.5222069 L160.021793,66.5222069 Z" id="Stroke-3" stroke-width="6" sketch:type="MSShapeGroup"></path>
+                <path d="M141.388966,62.0377931 L130.93269,62.0377931 L130.93269,51.5815172 L121.963862,51.5815172 L121.963862,62.0377931 L111.507586,62.0377931 L111.507586,71.0066207 L121.963862,71.0066207 L121.963862,81.4628966 L130.93269,81.4628966 L130.93269,71.0066207 L141.388966,71.0066207 L141.388966,62.0377931 L141.388966,62.0377931 Z" id="Stroke-4" stroke-width="4" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

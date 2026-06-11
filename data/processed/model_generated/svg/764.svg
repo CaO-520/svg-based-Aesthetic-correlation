@@ -1,0 +1,7 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="100" cy="100" r="100" fill="#5E6BFF"/>
+  <path d="M60 50 L60 110 L140 110 L140 70 L120 70 L120 50 Z" stroke="white" stroke-width="3" fill="none"/>
+  <text x="100" y="80" font-family="Arial, sans-serif" font-size="24" fill="white" text-anchor="middle" dominant-baseline="middle">SFTP</text>
+  <line x1="60" y1="120" x2="140" y2="120" stroke="white" stroke-width="3"/>
+  <circle cx="100" cy="120" r="5" fill="white"/>
+</svg>

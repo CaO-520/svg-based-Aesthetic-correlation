@@ -1,0 +1,24 @@
+<svg width="120" height="100" xmlns="http://www.w3.org/2000/svg">
+  <line x1="35" y1="25" x2="45" y2="35" stroke="black"/>
+  <line x1="45" y1="35" x2="55" y2="45" stroke="black"/>
+  <line x1="55" y1="45" x2="45" y2="55" stroke="black"/>
+  <line x1="45" y1="55" x2="35" y2="65" stroke="black"/>
+  <line x1="35" y1="65" x2="25" y2="55" stroke="black"/>
+  <line x1="25" y1="55" x2="35" y2="25" stroke="black"/>
+  <line x1="35" y1="25" x2="35" y2="15" stroke="black"/>
+  <line x1="35" y1="65" x2="35" y2="75" stroke="black"/>
+  <line x1="35" y1="75" x2="25" y2="85" stroke="black"/>
+  <line x1="35" y1="75" x2="45" y2="85" stroke="black"/>
+  <line x1="55" y1="45" x2="55" y2="35" stroke="black"/>
+  <text x="55" y="32" fill="red" font-family="Arial" font-size="10">OH</text>
+  <line x1="55" y1="45" x2="65" y2="35" stroke="black"/>
+  <line x1="65" y1="35" x2="75" y2="25" stroke="black"/>
+  <line x1="75" y1="25" x2="85" y2="35" stroke="black"/>
+  <line x1="85" y1="35" x2="75" y2="45" stroke="black"/>
+  <line x1="75" y1="45" x2="65" y2="55" stroke="black"/>
+  <line x1="65" y1="55" x2="55" y2="45" stroke="black"/>
+  <line x1="85" y1="35" x2="95" y2="30" stroke="black"/>
+  <line x1="85" y1="35" x2="95" y2="40" stroke="black"/>
+  <line x1="65" y1="55" x2="65" y2="65" stroke="black"/>
+  <text x="65" y="68" fill="red" font-family="Arial" font-size="10">OH</text>
+</svg>

@@ -4,13 +4,6 @@ __pycache__/
 
 configs/config.yaml
 
-data/raw/
-data/processed/
-data/metadata/*.json
-
-logs/
-outputs/
-
 *.safetensors
 *.bin
 *.pth

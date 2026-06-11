@@ -1,0 +1,6 @@
+<svg viewBox="0 0 300 300" version="1.1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink">
+<g fill-rule="evenodd"><path d="M 69.0744,230.926 L 109.537,190.463 L 178.612,121.388 L 178.612,219.074 L 178.612,259.537 L 178.612,300 L 138.149,300 L 97.6859,300 L 2.84217e-14,300 L 69.0744,230.926 z " style="fill-opacity:0.3;fill:rgb(255,0,0);stroke:rgb(0,0,0);stroke-width:1"/></g>
+<g fill-rule="evenodd"><path d="M 190.463,109.537 L 230.926,69.0744 L 300,5.68434e-14 L 300,97.6859 L 300,138.149 L 300,138.149 L 300,178.612 L 300,219.074 L 259.537,219.074 L 219.074,219.074 L 178.612,219.074 L 178.612,178.612 L 178.612,138.149 L 178.612,121.388 L 190.463,109.537 z " style="fill-opacity:0.3;fill:rgb(0,255,0);stroke:rgb(0,0,0);stroke-width:1"/></g>
+</svg>

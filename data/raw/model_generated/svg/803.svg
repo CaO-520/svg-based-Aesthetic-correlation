@@ -1,0 +1,28 @@
+<svg id="UI_Element_Light_Area_charts_single_area_chart_small" data-name="UI Element/Light/Area charts/single area chart small" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="150" height="169" viewBox="0 0 150 169">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1.066" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#147ad6"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g id="Group">
+    <g id="UI_Element_Light_Area_charts_single_area_chart_small-2" data-name="UI Element/Light/Area charts/single area chart small">
+      <g id="UI_Element_Area_charts_single_area_chart_small" data-name="UI Element/Area charts/single area chart small">
+        <g id="Mobile-chart-background_Copy" data-name="Mobile-chart-background Copy">
+          <g id="Rectangle_Copy_16" data-name="Rectangle Copy 16" fill="#fff" stroke="#e1e1e2" stroke-miterlimit="10" stroke-width="1">
+            <rect width="150" height="169" rx="12" stroke="none"/>
+            <rect x="0.5" y="0.5" width="149" height="168" rx="11.5" fill="none"/>
+          </g>
+        </g>
+        <text id="Additional_text" data-name="Additional text" transform="translate(12 44)" fill="#7c828a" font-size="16" font-family="NunitoSans-Regular, Nunito Sans"><tspan x="0" y="16">Category label</tspan></text>
+        <text id="Numbers" transform="translate(12 16)" font-size="22" font-family="NunitoSans-Bold, Nunito Sans" font-weight="700"><tspan x="0" y="22">2,476</tspan></text>
+      </g>
+    </g>
+    <g id="Charts_Area_charts_Single-01-small" data-name="Charts/Area charts/Single-01-small" transform="translate(13 82)">
+      <g id="Area_chart_01" data-name="Area chart 01" transform="translate(0.851 0.789)">
+        <path id="Line_1" d="M0,1.793S8.316,21.516,17.121,21.516c8.316,0,8.316-8.367,17.121-8.367,8.316,0,8.316,13.746,17.121,13.746C59.678,26.895,59.678,0,68.484,0,76.8,0,76.8,41.238,85.6,41.238c8.316,0,8.316-16.734,17.121-16.734,8.316,0,17.121,14.344,17.121,14.344V58.421H0Z" transform="translate(0.726 0.789)" opacity="0.3" fill="url(#linear-gradient)"/>
+        <path id="Line_1-2" data-name="Line_1" d="M69.209,0c3.973,0,5.717,4.806,8.819,19.575l.624,2.976C81.508,36,83.4,41.053,86.33,41.053c2.869,0,4.49-1.78,7.239-7.055l.436-.846c3.3-6.428,5.344-8.758,9.445-8.758a8.6,8.6,0,0,1,1.448.126c3.509.6,7.157,3.244,10.814,7.272a54.857,54.857,0,0,1,3.994,4.98c.318.446.61.867.874,1.26l.662,1.016-1.342.83-.382-.594c-.316-.48-.682-1.016-1.094-1.593a53.3,53.3,0,0,0-3.878-4.836c-3.44-3.789-6.839-6.253-9.912-6.778a7.025,7.025,0,0,0-1.183-.1c-3.071,0-4.807,1.781-7.535,6.928l-1.21,2.326c-2.881,5.437-4.779,7.405-8.376,7.405-4.263,0-6.146-5.114-9.364-20.429L76.2,18.58c-2.651-12.367-4.4-17-7-17-3.065,0-4.887,3.224-7.805,12.254l-.74,2.3c-2.964,9.084-4.8,12.22-8.576,12.22-3.8,0-5.851-1.7-8.824-6.289l-1.336-2.1c-2.562-3.955-4.153-5.291-6.961-5.291-3.284,0-5.013.909-7.822,3.583l-.556.537C23.412,21.881,21.484,23,17.847,23,13.632,23,9.435,19.17,5.323,12.821A70.353,70.353,0,0,1,1.457,5.995L.993,5.047Q.883,4.818.778,4.6L.147,3.221,0,2.883l1.452-.616.366.824.386.831c.2.433.426.89.665,1.368a68.8,68.8,0,0,0,3.778,6.672c3.836,5.922,7.711,9.457,11.2,9.457,3,0,4.6-.855,7.287-3.419l.541-.523c3.3-3.211,5.362-4.388,9.293-4.388,3.638,0,5.556,1.718,8.567,6.452l.478.761c3.03,4.843,4.767,6.472,8.076,6.472,2.709,0,4.392-2.919,7.078-11.137l.923-2.864C63.173,3.33,65.144,0,69.209,0Z" transform="translate(0)" fill="#147ad6"/>
+      </g>
+    </g>
+  </g>
+</svg>

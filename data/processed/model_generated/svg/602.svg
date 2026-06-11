@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="180">
+  <text x="20" y="30" font-family="Times New Roman, serif" font-size="16">h₆ = q² × h₄</text>
+  <text x="20" y="70" font-family="Times New Roman, serif" font-size="16">q² = h₆ / h₄</text>
+  <text x="20" y="110" font-family="Times New Roman, serif" font-size="16">q² = 56/6 = 28/3</text>
+  <text x="20" y="150" font-family="Times New Roman, serif" font-size="16">q = √(28/3) = 2√21 / 3</text>
+</svg>

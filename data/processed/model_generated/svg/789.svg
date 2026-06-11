@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#0000ff"/>
+    </marker>
+  </defs>
+  <g stroke="#0000ff" stroke-width="1.5" fill="none">
+    <path d="M200,50 C200,100 200,100 250,150" marker-end="url(#arrow)"/>
+    <path d="M200,50 C300,100 400,100 500,150" marker-end="url(#arrow)"/>
+    <path d="M200,50 C100,150 100,200 100,220" marker-end="url(#arrow)"/>
+    <path d="M200,50 C200,200 250,250 250,290" marker-end="url(#arrow)"/>
+    <path d="M200,50 C200,250 350,300 350,360" marker-end="url(#arrow)"/>
+    <path d="M200,50 C400,100 650,150 650,220" marker-end="url(#arrow)"/>
+    <path d="M250,150 C250,180 250,220 100,220" marker-end="url(#arrow)"/>
+    <path d="M250,150 C250,220 250,260 250,290" marker-end="url(#arrow)"/>
+    <path d="M250,150 C250,220 350,300 350,360" marker-end="url(#arrow)"/>
+    <path d="M250,150 C300,150 400,150 500,150" marker-end="url(#arrow)"/>
+    <path d="M250,150 C350,180 450,200 500,220" marker-end="url(#arrow)"/>
+    <path d="M500,150 C500,180 500,200 500,220" marker-end="url(#arrow)"/>
+    <path d="M500,150 C450,200 350,300 350,360" marker-end="url(#arrow)"/>
+    <path d="M500,150 C550,180 600,200 650,220" marker-end="url(#arrow)"/>
+    <path d="M500,220 C450,270 350,300 350,360" marker-end="url(#arrow)"/>
+  </g>
+  <g font-family="Arial" font-size="12" text-anchor="middle" dominant-baseline="middle">
+    <rect x="150" y="30" width="500" height="60" fill="#cccccc" stroke="#000000"/>
+    <text x="400" y="60">coresoftware/blob/master/simulation/g4simulation/g4eval/CaloRawClusterEval.h</text>
+    
+    <rect x="200" y="130" width="150" height="30" fill="#ffffff" stroke="#000000"/>
+    <text x="275" y="145">CaloRawTowerEval.h</text>
+    
+    <rect x="450" y="130" width="150" height="30" fill="#ffffff" stroke="#000000"/>
+    <text x="525" y="145">CaloTruthEval.h</text>
+    
+    <rect x="450" y="200" width="150" height="30" fill="#ffffff" stroke="#000000"/>
+    <text x="525" y="215">BaseTruthEval.h</text>
+    
+    <rect x="100" y="200" width="80" height="30" fill="#ffffff" stroke="#000000"/>
+    <text x="140" y="215">utility</text>
+    
+    <rect x="200" y="270" width="80" height="30" fill="#ffffff" stroke="#000000"/>
+    <text x="240" y="285">map</text>
+    
+    <rect x="350" y="340" width="80" height="30" fill="#ffffff" stroke="#000000"/>
+    <text x="390" y="355">set</text>
+    
+    <rect x="600" y="200" width="80" height="30" fill="#ffffff" stroke="#000000"/>
+    <text x="640" y="215">string</text>
+  </g>
+</svg>

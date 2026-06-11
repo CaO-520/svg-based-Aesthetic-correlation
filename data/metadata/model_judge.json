@@ -1,0 +1,3467 @@
+{
+  "human_design": [
+    {
+      "filename": "1.png",
+      "score": 4.96
+    },
+    {
+      "filename": "2.png",
+      "score": 4.3
+    },
+    {
+      "filename": "3.png",
+      "score": 5.25
+    },
+    {
+      "filename": "4.png",
+      "score": 4.74
+    },
+    {
+      "filename": "5.png",
+      "score": 4.96
+    },
+    {
+      "filename": "6.png",
+      "score": 4.88
+    },
+    {
+      "filename": "7.png",
+      "score": 4.58
+    },
+    {
+      "filename": "8.png",
+      "score": 5.15
+    },
+    {
+      "filename": "9.png",
+      "score": 4.49
+    },
+    {
+      "filename": "10.png",
+      "score": 5.13
+    },
+    {
+      "filename": "11.png",
+      "score": 4.05
+    },
+    {
+      "filename": "12.png",
+      "score": 4.22
+    },
+    {
+      "filename": "13.png",
+      "score": 4.6
+    },
+    {
+      "filename": "14.png",
+      "score": 4.09
+    },
+    {
+      "filename": "15.png",
+      "score": 4.64
+    },
+    {
+      "filename": "16.png",
+      "score": 4.05
+    },
+    {
+      "filename": "17.png",
+      "score": 4.93
+    },
+    {
+      "filename": "19.png",
+      "score": 4.07
+    },
+    {
+      "filename": "20.png",
+      "score": 4.52
+    },
+    {
+      "filename": "21.png",
+      "score": 4.36
+    },
+    {
+      "filename": "22.png",
+      "score": 4.49
+    },
+    {
+      "filename": "23.png",
+      "score": 5.01
+    },
+    {
+      "filename": "24.png",
+      "score": 4.8
+    },
+    {
+      "filename": "25.png",
+      "score": 4.83
+    },
+    {
+      "filename": "26.png",
+      "score": 4.69
+    },
+    {
+      "filename": "27.png",
+      "score": 4.59
+    },
+    {
+      "filename": "28.png",
+      "score": 5.09
+    },
+    {
+      "filename": "29.png",
+      "score": 4.63
+    },
+    {
+      "filename": "30.png",
+      "score": 5.01
+    },
+    {
+      "filename": "31.png",
+      "score": 4.43
+    },
+    {
+      "filename": "32.png",
+      "score": 4.06
+    },
+    {
+      "filename": "33.png",
+      "score": 4.22
+    },
+    {
+      "filename": "34.png",
+      "score": 4.29
+    },
+    {
+      "filename": "35.png",
+      "score": 4.6
+    },
+    {
+      "filename": "36.png",
+      "score": 4.46
+    },
+    {
+      "filename": "37.png",
+      "score": 4.11
+    },
+    {
+      "filename": "38.png",
+      "score": 5.08
+    },
+    {
+      "filename": "39.png",
+      "score": 4.76
+    },
+    {
+      "filename": "40.png",
+      "score": 4.44
+    },
+    {
+      "filename": "41.png",
+      "score": 4.21
+    },
+    {
+      "filename": "42.png",
+      "score": 4.64
+    },
+    {
+      "filename": "43.png",
+      "score": 5.37
+    },
+    {
+      "filename": "44.png",
+      "score": 4.99
+    },
+    {
+      "filename": "45.png",
+      "score": 5.2
+    },
+    {
+      "filename": "46.png",
+      "score": 4.91
+    },
+    {
+      "filename": "47.png",
+      "score": 4.54
+    },
+    {
+      "filename": "48.png",
+      "score": 5.41
+    },
+    {
+      "filename": "49.png",
+      "score": 4.92
+    },
+    {
+      "filename": "50.png",
+      "score": 4.44
+    },
+    {
+      "filename": "51.png",
+      "score": 4.64
+    },
+    {
+      "filename": "52.png",
+      "score": 4.68
+    },
+    {
+      "filename": "53.png",
+      "score": 5.35
+    },
+    {
+      "filename": "54.png",
+      "score": 5.13
+    },
+    {
+      "filename": "55.png",
+      "score": 4.55
+    },
+    {
+      "filename": "56.png",
+      "score": 4.69
+    },
+    {
+      "filename": "57.png",
+      "score": 4.63
+    },
+    {
+      "filename": "58.png",
+      "score": 3.99
+    },
+    {
+      "filename": "59.png",
+      "score": 4.8
+    },
+    {
+      "filename": "60.png",
+      "score": 4.44
+    },
+    {
+      "filename": "61.png",
+      "score": 5.2
+    },
+    {
+      "filename": "62.png",
+      "score": 4.59
+    },
+    {
+      "filename": "63.png",
+      "score": 4.41
+    },
+    {
+      "filename": "64.png",
+      "score": 4.48
+    },
+    {
+      "filename": "65.png",
+      "score": 4.06
+    },
+    {
+      "filename": "66.png",
+      "score": 4.95
+    },
+    {
+      "filename": "67.png",
+      "score": 4.93
+    },
+    {
+      "filename": "68.png",
+      "score": 4.7
+    },
+    {
+      "filename": "69.png",
+      "score": 4.88
+    },
+    {
+      "filename": "70.png",
+      "score": 4.82
+    },
+    {
+      "filename": "71.png",
+      "score": 4.89
+    },
+    {
+      "filename": "72.png",
+      "score": 5.16
+    },
+    {
+      "filename": "73.png",
+      "score": 3.92
+    },
+    {
+      "filename": "74.png",
+      "score": 4.66
+    },
+    {
+      "filename": "75.png",
+      "score": 4.38
+    },
+    {
+      "filename": "76.png",
+      "score": 4.93
+    },
+    {
+      "filename": "77.png",
+      "score": 3.35
+    },
+    {
+      "filename": "78.png",
+      "score": 4.32
+    },
+    {
+      "filename": "79.png",
+      "score": 4.75
+    },
+    {
+      "filename": "80.png",
+      "score": 4.72
+    },
+    {
+      "filename": "81.png",
+      "score": 4.75
+    },
+    {
+      "filename": "82.png",
+      "score": 4.6
+    },
+    {
+      "filename": "83.png",
+      "score": 4.83
+    },
+    {
+      "filename": "85.png",
+      "score": 4.63
+    },
+    {
+      "filename": "86.png",
+      "score": 4.45
+    },
+    {
+      "filename": "87.png",
+      "score": 5.18
+    },
+    {
+      "filename": "88.png",
+      "score": 4.46
+    },
+    {
+      "filename": "89.png",
+      "score": 4.59
+    },
+    {
+      "filename": "90.png",
+      "score": 4.62
+    },
+    {
+      "filename": "91.png",
+      "score": 5.38
+    },
+    {
+      "filename": "92.png",
+      "score": 4.74
+    },
+    {
+      "filename": "93.png",
+      "score": 4.74
+    },
+    {
+      "filename": "94.png",
+      "score": 4.48
+    },
+    {
+      "filename": "95.png",
+      "score": 5.05
+    },
+    {
+      "filename": "96.png",
+      "score": 4.61
+    },
+    {
+      "filename": "97.png",
+      "score": 4.95
+    },
+    {
+      "filename": "98.png",
+      "score": 4.79
+    },
+    {
+      "filename": "99.png",
+      "score": 4.42
+    },
+    {
+      "filename": "100.png",
+      "score": 4.39
+    },
+    {
+      "filename": "101.png",
+      "score": 4.84
+    },
+    {
+      "filename": "102.png",
+      "score": 4.33
+    },
+    {
+      "filename": "103.png",
+      "score": 4.09
+    },
+    {
+      "filename": "104.png",
+      "score": 4.39
+    },
+    {
+      "filename": "105.png",
+      "score": 4.82
+    },
+    {
+      "filename": "106.png",
+      "score": 5.56
+    },
+    {
+      "filename": "107.png",
+      "score": 4.83
+    },
+    {
+      "filename": "108.png",
+      "score": 5.38
+    },
+    {
+      "filename": "109.png",
+      "score": 4.86
+    },
+    {
+      "filename": "110.png",
+      "score": 4.64
+    },
+    {
+      "filename": "111.png",
+      "score": 4.0
+    },
+    {
+      "filename": "112.png",
+      "score": 4.46
+    },
+    {
+      "filename": "113.png",
+      "score": 4.92
+    },
+    {
+      "filename": "114.png",
+      "score": 4.7
+    },
+    {
+      "filename": "115.png",
+      "score": 5.17
+    },
+    {
+      "filename": "116.png",
+      "score": 5.02
+    },
+    {
+      "filename": "117.png",
+      "score": 4.25
+    },
+    {
+      "filename": "118.png",
+      "score": 4.65
+    },
+    {
+      "filename": "119.png",
+      "score": 4.82
+    },
+    {
+      "filename": "120.png",
+      "score": 4.61
+    },
+    {
+      "filename": "121.png",
+      "score": 4.68
+    },
+    {
+      "filename": "122.png",
+      "score": 4.5
+    },
+    {
+      "filename": "123.png",
+      "score": 4.57
+    },
+    {
+      "filename": "124.png",
+      "score": 4.11
+    },
+    {
+      "filename": "125.png",
+      "score": 5.34
+    },
+    {
+      "filename": "126.png",
+      "score": 4.86
+    },
+    {
+      "filename": "127.png",
+      "score": 3.85
+    },
+    {
+      "filename": "128.png",
+      "score": 4.29
+    },
+    {
+      "filename": "129.png",
+      "score": 5.06
+    },
+    {
+      "filename": "130.png",
+      "score": 4.37
+    },
+    {
+      "filename": "131.png",
+      "score": 4.24
+    },
+    {
+      "filename": "132.png",
+      "score": 4.96
+    },
+    {
+      "filename": "133.png",
+      "score": 4.68
+    },
+    {
+      "filename": "134.png",
+      "score": 4.64
+    },
+    {
+      "filename": "135.png",
+      "score": 4.99
+    },
+    {
+      "filename": "136.png",
+      "score": 5.16
+    },
+    {
+      "filename": "137.png",
+      "score": 4.53
+    },
+    {
+      "filename": "138.png",
+      "score": 4.56
+    },
+    {
+      "filename": "139.png",
+      "score": 4.83
+    },
+    {
+      "filename": "140.png",
+      "score": 4.8
+    },
+    {
+      "filename": "141.png",
+      "score": 4.8
+    },
+    {
+      "filename": "142.png",
+      "score": 4.58
+    },
+    {
+      "filename": "144.png",
+      "score": 4.3
+    },
+    {
+      "filename": "145.png",
+      "score": 4.08
+    },
+    {
+      "filename": "146.png",
+      "score": 4.97
+    },
+    {
+      "filename": "147.png",
+      "score": 3.6
+    },
+    {
+      "filename": "149.png",
+      "score": 4.57
+    },
+    {
+      "filename": "150.png",
+      "score": 4.21
+    },
+    {
+      "filename": "151.png",
+      "score": 5.14
+    },
+    {
+      "filename": "152.png",
+      "score": 4.82
+    },
+    {
+      "filename": "153.png",
+      "score": 4.59
+    },
+    {
+      "filename": "154.png",
+      "score": 4.58
+    },
+    {
+      "filename": "155.png",
+      "score": 4.5
+    },
+    {
+      "filename": "156.png",
+      "score": 3.97
+    },
+    {
+      "filename": "157.png",
+      "score": 4.1
+    },
+    {
+      "filename": "158.png",
+      "score": 4.99
+    },
+    {
+      "filename": "159.png",
+      "score": 4.81
+    },
+    {
+      "filename": "160.png",
+      "score": 4.91
+    },
+    {
+      "filename": "161.png",
+      "score": 4.69
+    },
+    {
+      "filename": "162.png",
+      "score": 5.37
+    },
+    {
+      "filename": "163.png",
+      "score": 4.23
+    },
+    {
+      "filename": "164.png",
+      "score": 5.17
+    },
+    {
+      "filename": "165.png",
+      "score": 3.97
+    },
+    {
+      "filename": "166.png",
+      "score": 4.35
+    },
+    {
+      "filename": "167.png",
+      "score": 4.57
+    },
+    {
+      "filename": "168.png",
+      "score": 4.84
+    },
+    {
+      "filename": "169.png",
+      "score": 4.26
+    },
+    {
+      "filename": "170.png",
+      "score": 5.35
+    },
+    {
+      "filename": "171.png",
+      "score": 3.52
+    },
+    {
+      "filename": "172.png",
+      "score": 4.76
+    },
+    {
+      "filename": "173.png",
+      "score": 3.93
+    },
+    {
+      "filename": "174.png",
+      "score": 4.69
+    },
+    {
+      "filename": "175.png",
+      "score": 4.34
+    },
+    {
+      "filename": "176.png",
+      "score": 5.0
+    },
+    {
+      "filename": "177.png",
+      "score": 3.27
+    },
+    {
+      "filename": "179.png",
+      "score": 4.34
+    },
+    {
+      "filename": "180.png",
+      "score": 4.98
+    },
+    {
+      "filename": "181.png",
+      "score": 4.08
+    },
+    {
+      "filename": "182.png",
+      "score": 4.48
+    },
+    {
+      "filename": "183.png",
+      "score": 5.08
+    },
+    {
+      "filename": "184.png",
+      "score": 4.94
+    },
+    {
+      "filename": "185.png",
+      "score": 4.34
+    },
+    {
+      "filename": "186.png",
+      "score": 4.83
+    },
+    {
+      "filename": "187.png",
+      "score": 5.05
+    },
+    {
+      "filename": "188.png",
+      "score": 4.87
+    },
+    {
+      "filename": "189.png",
+      "score": 4.65
+    },
+    {
+      "filename": "190.png",
+      "score": 4.53
+    },
+    {
+      "filename": "191.png",
+      "score": 4.91
+    },
+    {
+      "filename": "192.png",
+      "score": 4.15
+    },
+    {
+      "filename": "194.png",
+      "score": 4.77
+    },
+    {
+      "filename": "195.png",
+      "score": 4.79
+    },
+    {
+      "filename": "196.png",
+      "score": 4.4
+    },
+    {
+      "filename": "197.png",
+      "score": 4.33
+    },
+    {
+      "filename": "198.png",
+      "score": 3.83
+    },
+    {
+      "filename": "199.png",
+      "score": 5.15
+    },
+    {
+      "filename": "200.png",
+      "score": 4.72
+    },
+    {
+      "filename": "201.png",
+      "score": 4.98
+    },
+    {
+      "filename": "202.png",
+      "score": 4.71
+    },
+    {
+      "filename": "203.png",
+      "score": 4.61
+    },
+    {
+      "filename": "204.png",
+      "score": 4.96
+    },
+    {
+      "filename": "205.png",
+      "score": 3.86
+    },
+    {
+      "filename": "206.png",
+      "score": 4.23
+    },
+    {
+      "filename": "207.png",
+      "score": 5.1
+    },
+    {
+      "filename": "208.png",
+      "score": 4.68
+    },
+    {
+      "filename": "209.png",
+      "score": 4.01
+    },
+    {
+      "filename": "210.png",
+      "score": 4.84
+    },
+    {
+      "filename": "211.png",
+      "score": 5.03
+    },
+    {
+      "filename": "212.png",
+      "score": 3.78
+    },
+    {
+      "filename": "213.png",
+      "score": 4.58
+    },
+    {
+      "filename": "214.png",
+      "score": 5.02
+    },
+    {
+      "filename": "215.png",
+      "score": 4.4
+    },
+    {
+      "filename": "216.png",
+      "score": 4.54
+    },
+    {
+      "filename": "217.png",
+      "score": 4.62
+    },
+    {
+      "filename": "218.png",
+      "score": 5.05
+    },
+    {
+      "filename": "219.png",
+      "score": 4.51
+    },
+    {
+      "filename": "220.png",
+      "score": 4.53
+    },
+    {
+      "filename": "221.png",
+      "score": 4.48
+    },
+    {
+      "filename": "222.png",
+      "score": 4.88
+    },
+    {
+      "filename": "223.png",
+      "score": 3.12
+    },
+    {
+      "filename": "224.png",
+      "score": 4.42
+    },
+    {
+      "filename": "225.png",
+      "score": 4.54
+    },
+    {
+      "filename": "226.png",
+      "score": 5.25
+    },
+    {
+      "filename": "227.png",
+      "score": 5.2
+    },
+    {
+      "filename": "228.png",
+      "score": 4.33
+    },
+    {
+      "filename": "229.png",
+      "score": 5.24
+    },
+    {
+      "filename": "230.png",
+      "score": 4.66
+    },
+    {
+      "filename": "231.png",
+      "score": 4.04
+    },
+    {
+      "filename": "232.png",
+      "score": 5.22
+    },
+    {
+      "filename": "233.png",
+      "score": 4.13
+    },
+    {
+      "filename": "234.png",
+      "score": 4.38
+    },
+    {
+      "filename": "235.png",
+      "score": 4.78
+    },
+    {
+      "filename": "236.png",
+      "score": 4.64
+    },
+    {
+      "filename": "237.png",
+      "score": 4.84
+    },
+    {
+      "filename": "238.png",
+      "score": 4.42
+    },
+    {
+      "filename": "239.png",
+      "score": 5.53
+    },
+    {
+      "filename": "240.png",
+      "score": 5.05
+    },
+    {
+      "filename": "241.png",
+      "score": 4.53
+    },
+    {
+      "filename": "242.png",
+      "score": 4.65
+    },
+    {
+      "filename": "243.png",
+      "score": 4.96
+    },
+    {
+      "filename": "244.png",
+      "score": 4.96
+    },
+    {
+      "filename": "245.png",
+      "score": 4.55
+    },
+    {
+      "filename": "246.png",
+      "score": 4.14
+    },
+    {
+      "filename": "247.png",
+      "score": 4.11
+    },
+    {
+      "filename": "248.png",
+      "score": 4.59
+    },
+    {
+      "filename": "249.png",
+      "score": 4.09
+    },
+    {
+      "filename": "250.png",
+      "score": 4.27
+    },
+    {
+      "filename": "251.png",
+      "score": 4.4
+    },
+    {
+      "filename": "252.png",
+      "score": 4.73
+    },
+    {
+      "filename": "254.png",
+      "score": 4.04
+    },
+    {
+      "filename": "255.png",
+      "score": 4.86
+    },
+    {
+      "filename": "256.png",
+      "score": 5.2
+    },
+    {
+      "filename": "257.png",
+      "score": 4.99
+    },
+    {
+      "filename": "258.png",
+      "score": 4.4
+    },
+    {
+      "filename": "260.png",
+      "score": 4.45
+    },
+    {
+      "filename": "261.png",
+      "score": 4.55
+    },
+    {
+      "filename": "262.png",
+      "score": 4.34
+    },
+    {
+      "filename": "263.png",
+      "score": 4.29
+    },
+    {
+      "filename": "264.png",
+      "score": 4.1
+    },
+    {
+      "filename": "265.png",
+      "score": 4.77
+    },
+    {
+      "filename": "266.png",
+      "score": 4.29
+    },
+    {
+      "filename": "267.png",
+      "score": 4.22
+    },
+    {
+      "filename": "268.png",
+      "score": 4.69
+    },
+    {
+      "filename": "269.png",
+      "score": 4.6
+    },
+    {
+      "filename": "270.png",
+      "score": 5.04
+    },
+    {
+      "filename": "271.png",
+      "score": 4.82
+    },
+    {
+      "filename": "272.png",
+      "score": 5.08
+    },
+    {
+      "filename": "273.png",
+      "score": 4.89
+    },
+    {
+      "filename": "274.png",
+      "score": 4.69
+    },
+    {
+      "filename": "275.png",
+      "score": 5.07
+    },
+    {
+      "filename": "276.png",
+      "score": 4.83
+    },
+    {
+      "filename": "277.png",
+      "score": 5.07
+    },
+    {
+      "filename": "278.png",
+      "score": 4.32
+    },
+    {
+      "filename": "279.png",
+      "score": 4.82
+    },
+    {
+      "filename": "280.png",
+      "score": 4.22
+    },
+    {
+      "filename": "281.png",
+      "score": 4.76
+    },
+    {
+      "filename": "282.png",
+      "score": 4.7
+    },
+    {
+      "filename": "283.png",
+      "score": 4.76
+    },
+    {
+      "filename": "284.png",
+      "score": 4.4
+    },
+    {
+      "filename": "285.png",
+      "score": 4.51
+    },
+    {
+      "filename": "286.png",
+      "score": 4.49
+    },
+    {
+      "filename": "287.png",
+      "score": 4.47
+    },
+    {
+      "filename": "288.png",
+      "score": 4.73
+    },
+    {
+      "filename": "289.png",
+      "score": 5.58
+    },
+    {
+      "filename": "290.png",
+      "score": 5.3
+    },
+    {
+      "filename": "291.png",
+      "score": 4.91
+    },
+    {
+      "filename": "292.png",
+      "score": 4.77
+    },
+    {
+      "filename": "293.png",
+      "score": 4.99
+    },
+    {
+      "filename": "294.png",
+      "score": 4.53
+    },
+    {
+      "filename": "295.png",
+      "score": 4.71
+    },
+    {
+      "filename": "296.png",
+      "score": 4.86
+    },
+    {
+      "filename": "298.png",
+      "score": 4.54
+    },
+    {
+      "filename": "299.png",
+      "score": 4.73
+    },
+    {
+      "filename": "300.png",
+      "score": 4.92
+    }
+  ],
+  "degraded": [
+    {
+      "filename": "301.png",
+      "score": 3.97
+    },
+    {
+      "filename": "302.png",
+      "score": 4.31
+    },
+    {
+      "filename": "303.png",
+      "score": 4.12
+    },
+    {
+      "filename": "304.png",
+      "score": 3.98
+    },
+    {
+      "filename": "305.png",
+      "score": 4.66
+    },
+    {
+      "filename": "306.png",
+      "score": 4.54
+    },
+    {
+      "filename": "307.png",
+      "score": 4.97
+    },
+    {
+      "filename": "308.png",
+      "score": 4.23
+    },
+    {
+      "filename": "309.png",
+      "score": 3.77
+    },
+    {
+      "filename": "310.png",
+      "score": 3.62
+    },
+    {
+      "filename": "311.png",
+      "score": 4.96
+    },
+    {
+      "filename": "312.png",
+      "score": 5.11
+    },
+    {
+      "filename": "313.png",
+      "score": 4.43
+    },
+    {
+      "filename": "314.png",
+      "score": 4.65
+    },
+    {
+      "filename": "315.png",
+      "score": 4.18
+    },
+    {
+      "filename": "316.png",
+      "score": 3.5
+    },
+    {
+      "filename": "317.png",
+      "score": 4.23
+    },
+    {
+      "filename": "318.png",
+      "score": 3.56
+    },
+    {
+      "filename": "319.png",
+      "score": 4.15
+    },
+    {
+      "filename": "320.png",
+      "score": 4.22
+    },
+    {
+      "filename": "321.png",
+      "score": 4.5
+    },
+    {
+      "filename": "322.png",
+      "score": 3.97
+    },
+    {
+      "filename": "323.png",
+      "score": 4.81
+    },
+    {
+      "filename": "324.png",
+      "score": 4.22
+    },
+    {
+      "filename": "325.png",
+      "score": 4.39
+    },
+    {
+      "filename": "326.png",
+      "score": 3.9
+    },
+    {
+      "filename": "327.png",
+      "score": 3.9
+    },
+    {
+      "filename": "328.png",
+      "score": 4.01
+    },
+    {
+      "filename": "329.png",
+      "score": 4.3
+    },
+    {
+      "filename": "330.png",
+      "score": 4.26
+    },
+    {
+      "filename": "331.png",
+      "score": 4.4
+    },
+    {
+      "filename": "332.png",
+      "score": 4.0
+    },
+    {
+      "filename": "333.png",
+      "score": 3.08
+    },
+    {
+      "filename": "334.png",
+      "score": 4.13
+    },
+    {
+      "filename": "335.png",
+      "score": 4.56
+    },
+    {
+      "filename": "336.png",
+      "score": 4.91
+    },
+    {
+      "filename": "337.png",
+      "score": 4.01
+    },
+    {
+      "filename": "338.png",
+      "score": 4.94
+    },
+    {
+      "filename": "339.png",
+      "score": 4.3
+    },
+    {
+      "filename": "340.png",
+      "score": 4.88
+    },
+    {
+      "filename": "341.png",
+      "score": 3.95
+    },
+    {
+      "filename": "342.png",
+      "score": 4.15
+    },
+    {
+      "filename": "343.png",
+      "score": 4.3
+    },
+    {
+      "filename": "344.png",
+      "score": 4.89
+    },
+    {
+      "filename": "345.png",
+      "score": 3.9
+    },
+    {
+      "filename": "346.png",
+      "score": 4.31
+    },
+    {
+      "filename": "347.png",
+      "score": 4.4
+    },
+    {
+      "filename": "348.png",
+      "score": 3.79
+    },
+    {
+      "filename": "349.png",
+      "score": 4.22
+    },
+    {
+      "filename": "350.png",
+      "score": 4.12
+    },
+    {
+      "filename": "351.png",
+      "score": 4.15
+    },
+    {
+      "filename": "352.png",
+      "score": 4.27
+    },
+    {
+      "filename": "354.png",
+      "score": 3.99
+    },
+    {
+      "filename": "355.png",
+      "score": 5.13
+    },
+    {
+      "filename": "356.png",
+      "score": 4.76
+    },
+    {
+      "filename": "357.png",
+      "score": 4.16
+    },
+    {
+      "filename": "358.png",
+      "score": 4.04
+    },
+    {
+      "filename": "359.png",
+      "score": 4.33
+    },
+    {
+      "filename": "360.png",
+      "score": 4.63
+    },
+    {
+      "filename": "361.png",
+      "score": 3.29
+    },
+    {
+      "filename": "362.png",
+      "score": 4.31
+    },
+    {
+      "filename": "363.png",
+      "score": 4.81
+    },
+    {
+      "filename": "364.png",
+      "score": 4.02
+    },
+    {
+      "filename": "365.png",
+      "score": 4.78
+    },
+    {
+      "filename": "366.png",
+      "score": 4.69
+    },
+    {
+      "filename": "367.png",
+      "score": 4.2
+    },
+    {
+      "filename": "368.png",
+      "score": 4.33
+    },
+    {
+      "filename": "369.png",
+      "score": 4.3
+    },
+    {
+      "filename": "372.png",
+      "score": 4.38
+    },
+    {
+      "filename": "373.png",
+      "score": 3.93
+    },
+    {
+      "filename": "374.png",
+      "score": 4.37
+    },
+    {
+      "filename": "375.png",
+      "score": 4.48
+    },
+    {
+      "filename": "376.png",
+      "score": 4.54
+    },
+    {
+      "filename": "377.png",
+      "score": 4.49
+    },
+    {
+      "filename": "378.png",
+      "score": 4.35
+    },
+    {
+      "filename": "379.png",
+      "score": 4.5
+    },
+    {
+      "filename": "380.png",
+      "score": 4.09
+    },
+    {
+      "filename": "381.png",
+      "score": 4.33
+    },
+    {
+      "filename": "382.png",
+      "score": 4.41
+    },
+    {
+      "filename": "383.png",
+      "score": 4.3
+    },
+    {
+      "filename": "384.png",
+      "score": 4.06
+    },
+    {
+      "filename": "385.png",
+      "score": 5.06
+    },
+    {
+      "filename": "386.png",
+      "score": 4.82
+    },
+    {
+      "filename": "387.png",
+      "score": 4.57
+    },
+    {
+      "filename": "388.png",
+      "score": 4.2
+    },
+    {
+      "filename": "389.png",
+      "score": 4.33
+    },
+    {
+      "filename": "390.png",
+      "score": 4.71
+    },
+    {
+      "filename": "391.png",
+      "score": 3.3
+    },
+    {
+      "filename": "392.png",
+      "score": 3.68
+    },
+    {
+      "filename": "393.png",
+      "score": 3.33
+    },
+    {
+      "filename": "394.png",
+      "score": 4.3
+    },
+    {
+      "filename": "395.png",
+      "score": 2.97
+    },
+    {
+      "filename": "396.png",
+      "score": 2.84
+    },
+    {
+      "filename": "397.png",
+      "score": 4.3
+    },
+    {
+      "filename": "398.png",
+      "score": 4.54
+    },
+    {
+      "filename": "399.png",
+      "score": 3.97
+    },
+    {
+      "filename": "400.png",
+      "score": 4.03
+    },
+    {
+      "filename": "401.png",
+      "score": 3.28
+    },
+    {
+      "filename": "402.png",
+      "score": 4.2
+    },
+    {
+      "filename": "403.png",
+      "score": 4.12
+    },
+    {
+      "filename": "404.png",
+      "score": 4.92
+    },
+    {
+      "filename": "405.png",
+      "score": 4.49
+    },
+    {
+      "filename": "406.png",
+      "score": 4.25
+    },
+    {
+      "filename": "407.png",
+      "score": 3.94
+    },
+    {
+      "filename": "408.png",
+      "score": 3.0
+    },
+    {
+      "filename": "409.png",
+      "score": 4.53
+    },
+    {
+      "filename": "410.png",
+      "score": 4.69
+    },
+    {
+      "filename": "411.png",
+      "score": 4.06
+    },
+    {
+      "filename": "412.png",
+      "score": 4.43
+    },
+    {
+      "filename": "413.png",
+      "score": 4.72
+    },
+    {
+      "filename": "414.png",
+      "score": 4.57
+    },
+    {
+      "filename": "415.png",
+      "score": 4.33
+    },
+    {
+      "filename": "416.png",
+      "score": 4.9
+    },
+    {
+      "filename": "417.png",
+      "score": 4.3
+    },
+    {
+      "filename": "418.png",
+      "score": 4.73
+    },
+    {
+      "filename": "419.png",
+      "score": 4.27
+    },
+    {
+      "filename": "420.png",
+      "score": 4.44
+    },
+    {
+      "filename": "421.png",
+      "score": 4.3
+    },
+    {
+      "filename": "422.png",
+      "score": 3.52
+    },
+    {
+      "filename": "423.png",
+      "score": 4.63
+    },
+    {
+      "filename": "424.png",
+      "score": 3.68
+    },
+    {
+      "filename": "425.png",
+      "score": 3.59
+    },
+    {
+      "filename": "426.png",
+      "score": 3.94
+    },
+    {
+      "filename": "427.png",
+      "score": 3.22
+    },
+    {
+      "filename": "428.png",
+      "score": 4.52
+    },
+    {
+      "filename": "429.png",
+      "score": 4.58
+    },
+    {
+      "filename": "431.png",
+      "score": 4.11
+    },
+    {
+      "filename": "432.png",
+      "score": 4.24
+    },
+    {
+      "filename": "433.png",
+      "score": 4.68
+    },
+    {
+      "filename": "434.png",
+      "score": 4.92
+    },
+    {
+      "filename": "435.png",
+      "score": 4.3
+    },
+    {
+      "filename": "436.png",
+      "score": 4.51
+    },
+    {
+      "filename": "437.png",
+      "score": 4.12
+    },
+    {
+      "filename": "439.png",
+      "score": 4.36
+    },
+    {
+      "filename": "440.png",
+      "score": 4.65
+    },
+    {
+      "filename": "441.png",
+      "score": 4.37
+    },
+    {
+      "filename": "442.png",
+      "score": 4.3
+    },
+    {
+      "filename": "443.png",
+      "score": 4.43
+    },
+    {
+      "filename": "445.png",
+      "score": 4.97
+    },
+    {
+      "filename": "446.png",
+      "score": 4.42
+    },
+    {
+      "filename": "447.png",
+      "score": 4.77
+    },
+    {
+      "filename": "448.png",
+      "score": 4.39
+    },
+    {
+      "filename": "449.png",
+      "score": 3.91
+    },
+    {
+      "filename": "451.png",
+      "score": 4.08
+    },
+    {
+      "filename": "452.png",
+      "score": 4.65
+    },
+    {
+      "filename": "454.png",
+      "score": 3.77
+    },
+    {
+      "filename": "455.png",
+      "score": 5.23
+    },
+    {
+      "filename": "456.png",
+      "score": 4.37
+    },
+    {
+      "filename": "457.png",
+      "score": 4.64
+    },
+    {
+      "filename": "458.png",
+      "score": 3.8
+    },
+    {
+      "filename": "459.png",
+      "score": 5.06
+    },
+    {
+      "filename": "460.png",
+      "score": 4.61
+    },
+    {
+      "filename": "461.png",
+      "score": 4.47
+    },
+    {
+      "filename": "462.png",
+      "score": 4.7
+    },
+    {
+      "filename": "463.png",
+      "score": 4.65
+    },
+    {
+      "filename": "464.png",
+      "score": 4.02
+    },
+    {
+      "filename": "465.png",
+      "score": 4.33
+    },
+    {
+      "filename": "466.png",
+      "score": 4.15
+    },
+    {
+      "filename": "467.png",
+      "score": 4.27
+    },
+    {
+      "filename": "468.png",
+      "score": 4.3
+    },
+    {
+      "filename": "469.png",
+      "score": 4.29
+    },
+    {
+      "filename": "470.png",
+      "score": 3.97
+    },
+    {
+      "filename": "471.png",
+      "score": 3.79
+    },
+    {
+      "filename": "472.png",
+      "score": 4.39
+    },
+    {
+      "filename": "473.png",
+      "score": 4.29
+    },
+    {
+      "filename": "474.png",
+      "score": 3.91
+    },
+    {
+      "filename": "475.png",
+      "score": 4.5
+    },
+    {
+      "filename": "476.png",
+      "score": 3.8
+    },
+    {
+      "filename": "477.png",
+      "score": 5.3
+    },
+    {
+      "filename": "478.png",
+      "score": 4.55
+    },
+    {
+      "filename": "479.png",
+      "score": 4.07
+    },
+    {
+      "filename": "480.png",
+      "score": 4.44
+    },
+    {
+      "filename": "481.png",
+      "score": 2.96
+    },
+    {
+      "filename": "482.png",
+      "score": 4.51
+    },
+    {
+      "filename": "483.png",
+      "score": 4.9
+    },
+    {
+      "filename": "484.png",
+      "score": 4.44
+    },
+    {
+      "filename": "485.png",
+      "score": 4.32
+    },
+    {
+      "filename": "486.png",
+      "score": 4.36
+    },
+    {
+      "filename": "487.png",
+      "score": 4.99
+    },
+    {
+      "filename": "488.png",
+      "score": 4.25
+    },
+    {
+      "filename": "489.png",
+      "score": 3.38
+    },
+    {
+      "filename": "490.png",
+      "score": 4.3
+    },
+    {
+      "filename": "491.png",
+      "score": 2.91
+    },
+    {
+      "filename": "492.png",
+      "score": 2.93
+    },
+    {
+      "filename": "493.png",
+      "score": 4.15
+    },
+    {
+      "filename": "494.png",
+      "score": 3.67
+    },
+    {
+      "filename": "495.png",
+      "score": 4.47
+    },
+    {
+      "filename": "496.png",
+      "score": 4.48
+    },
+    {
+      "filename": "497.png",
+      "score": 5.02
+    },
+    {
+      "filename": "498.png",
+      "score": 4.31
+    },
+    {
+      "filename": "499.png",
+      "score": 3.98
+    },
+    {
+      "filename": "500.png",
+      "score": 4.55
+    },
+    {
+      "filename": "501.png",
+      "score": 4.3
+    },
+    {
+      "filename": "502.png",
+      "score": 3.41
+    },
+    {
+      "filename": "503.png",
+      "score": 4.37
+    },
+    {
+      "filename": "505.png",
+      "score": 4.04
+    },
+    {
+      "filename": "506.png",
+      "score": 3.76
+    },
+    {
+      "filename": "507.png",
+      "score": 4.18
+    },
+    {
+      "filename": "508.png",
+      "score": 2.67
+    },
+    {
+      "filename": "509.png",
+      "score": 2.88
+    },
+    {
+      "filename": "510.png",
+      "score": 4.3
+    },
+    {
+      "filename": "511.png",
+      "score": 4.3
+    },
+    {
+      "filename": "512.png",
+      "score": 4.29
+    },
+    {
+      "filename": "513.png",
+      "score": 4.3
+    },
+    {
+      "filename": "514.png",
+      "score": 4.34
+    },
+    {
+      "filename": "515.png",
+      "score": 4.93
+    },
+    {
+      "filename": "516.png",
+      "score": 4.3
+    },
+    {
+      "filename": "517.png",
+      "score": 4.72
+    },
+    {
+      "filename": "518.png",
+      "score": 4.68
+    },
+    {
+      "filename": "519.png",
+      "score": 4.3
+    },
+    {
+      "filename": "520.png",
+      "score": 5.25
+    },
+    {
+      "filename": "521.png",
+      "score": 4.23
+    },
+    {
+      "filename": "522.png",
+      "score": 3.84
+    },
+    {
+      "filename": "523.png",
+      "score": 4.3
+    },
+    {
+      "filename": "524.png",
+      "score": 4.2
+    },
+    {
+      "filename": "526.png",
+      "score": 4.3
+    },
+    {
+      "filename": "527.png",
+      "score": 4.39
+    },
+    {
+      "filename": "528.png",
+      "score": 4.61
+    },
+    {
+      "filename": "529.png",
+      "score": 3.72
+    },
+    {
+      "filename": "530.png",
+      "score": 4.84
+    },
+    {
+      "filename": "532.png",
+      "score": 4.01
+    },
+    {
+      "filename": "533.png",
+      "score": 4.25
+    },
+    {
+      "filename": "535.png",
+      "score": 4.15
+    },
+    {
+      "filename": "536.png",
+      "score": 4.33
+    },
+    {
+      "filename": "537.png",
+      "score": 3.97
+    },
+    {
+      "filename": "538.png",
+      "score": 4.2
+    },
+    {
+      "filename": "539.png",
+      "score": 4.51
+    },
+    {
+      "filename": "540.png",
+      "score": 4.4
+    },
+    {
+      "filename": "541.png",
+      "score": 5.26
+    },
+    {
+      "filename": "542.png",
+      "score": 4.12
+    },
+    {
+      "filename": "543.png",
+      "score": 4.15
+    },
+    {
+      "filename": "544.png",
+      "score": 4.22
+    },
+    {
+      "filename": "545.png",
+      "score": 4.57
+    },
+    {
+      "filename": "546.png",
+      "score": 4.4
+    },
+    {
+      "filename": "547.png",
+      "score": 4.52
+    },
+    {
+      "filename": "548.png",
+      "score": 4.34
+    },
+    {
+      "filename": "549.png",
+      "score": 4.07
+    },
+    {
+      "filename": "550.png",
+      "score": 3.79
+    },
+    {
+      "filename": "551.png",
+      "score": 4.25
+    },
+    {
+      "filename": "552.png",
+      "score": 4.02
+    },
+    {
+      "filename": "553.png",
+      "score": 4.46
+    },
+    {
+      "filename": "554.png",
+      "score": 4.12
+    },
+    {
+      "filename": "555.png",
+      "score": 4.3
+    },
+    {
+      "filename": "556.png",
+      "score": 3.91
+    },
+    {
+      "filename": "557.png",
+      "score": 4.17
+    },
+    {
+      "filename": "558.png",
+      "score": 3.95
+    },
+    {
+      "filename": "559.png",
+      "score": 4.13
+    },
+    {
+      "filename": "560.png",
+      "score": 4.81
+    },
+    {
+      "filename": "561.png",
+      "score": 4.59
+    },
+    {
+      "filename": "562.png",
+      "score": 4.51
+    },
+    {
+      "filename": "563.png",
+      "score": 3.29
+    },
+    {
+      "filename": "564.png",
+      "score": 4.35
+    },
+    {
+      "filename": "566.png",
+      "score": 2.8
+    },
+    {
+      "filename": "567.png",
+      "score": 5.18
+    },
+    {
+      "filename": "568.png",
+      "score": 3.67
+    },
+    {
+      "filename": "569.png",
+      "score": 4.64
+    },
+    {
+      "filename": "570.png",
+      "score": 4.22
+    },
+    {
+      "filename": "571.png",
+      "score": 4.18
+    },
+    {
+      "filename": "572.png",
+      "score": 4.26
+    },
+    {
+      "filename": "573.png",
+      "score": 4.6
+    },
+    {
+      "filename": "574.png",
+      "score": 4.18
+    },
+    {
+      "filename": "575.png",
+      "score": 4.79
+    },
+    {
+      "filename": "576.png",
+      "score": 4.26
+    },
+    {
+      "filename": "577.png",
+      "score": 4.37
+    },
+    {
+      "filename": "578.png",
+      "score": 4.05
+    },
+    {
+      "filename": "579.png",
+      "score": 3.89
+    },
+    {
+      "filename": "580.png",
+      "score": 4.28
+    },
+    {
+      "filename": "581.png",
+      "score": 4.52
+    },
+    {
+      "filename": "582.png",
+      "score": 4.15
+    },
+    {
+      "filename": "583.png",
+      "score": 5.25
+    },
+    {
+      "filename": "584.png",
+      "score": 4.75
+    },
+    {
+      "filename": "585.png",
+      "score": 4.13
+    },
+    {
+      "filename": "586.png",
+      "score": 3.68
+    },
+    {
+      "filename": "587.png",
+      "score": 4.59
+    },
+    {
+      "filename": "588.png",
+      "score": 4.43
+    },
+    {
+      "filename": "589.png",
+      "score": 4.09
+    },
+    {
+      "filename": "590.png",
+      "score": 4.92
+    },
+    {
+      "filename": "591.png",
+      "score": 4.12
+    },
+    {
+      "filename": "592.png",
+      "score": 4.48
+    },
+    {
+      "filename": "593.png",
+      "score": 4.05
+    },
+    {
+      "filename": "594.png",
+      "score": 4.2
+    },
+    {
+      "filename": "595.png",
+      "score": 3.83
+    },
+    {
+      "filename": "597.png",
+      "score": 4.22
+    },
+    {
+      "filename": "598.png",
+      "score": 4.24
+    },
+    {
+      "filename": "599.png",
+      "score": 2.9
+    },
+    {
+      "filename": "600.png",
+      "score": 4.44
+    }
+  ],
+  "model_generated": [
+    {
+      "filename": "601.png",
+      "score": 4.47
+    },
+    {
+      "filename": "602.png",
+      "score": 3.76
+    },
+    {
+      "filename": "603.png",
+      "score": 3.98
+    },
+    {
+      "filename": "604.png",
+      "score": 4.08
+    },
+    {
+      "filename": "605.png",
+      "score": 4.15
+    },
+    {
+      "filename": "606.png",
+      "score": 4.75
+    },
+    {
+      "filename": "607.png",
+      "score": 4.19
+    },
+    {
+      "filename": "608.png",
+      "score": 4.41
+    },
+    {
+      "filename": "609.png",
+      "score": 4.89
+    },
+    {
+      "filename": "610.png",
+      "score": 4.21
+    },
+    {
+      "filename": "611.png",
+      "score": 4.05
+    },
+    {
+      "filename": "612.png",
+      "score": 3.95
+    },
+    {
+      "filename": "613.png",
+      "score": 4.23
+    },
+    {
+      "filename": "614.png",
+      "score": 4.34
+    },
+    {
+      "filename": "615.png",
+      "score": 4.89
+    },
+    {
+      "filename": "616.png",
+      "score": 4.4
+    },
+    {
+      "filename": "617.png",
+      "score": 4.44
+    },
+    {
+      "filename": "618.png",
+      "score": 5.04
+    },
+    {
+      "filename": "619.png",
+      "score": 4.54
+    },
+    {
+      "filename": "620.png",
+      "score": 4.46
+    },
+    {
+      "filename": "622.png",
+      "score": 4.55
+    },
+    {
+      "filename": "623.png",
+      "score": 4.11
+    },
+    {
+      "filename": "624.png",
+      "score": 4.58
+    },
+    {
+      "filename": "625.png",
+      "score": 3.89
+    },
+    {
+      "filename": "626.png",
+      "score": 4.07
+    },
+    {
+      "filename": "627.png",
+      "score": 4.25
+    },
+    {
+      "filename": "628.png",
+      "score": 4.35
+    },
+    {
+      "filename": "629.png",
+      "score": 4.9
+    },
+    {
+      "filename": "630.png",
+      "score": 4.22
+    },
+    {
+      "filename": "631.png",
+      "score": 4.29
+    },
+    {
+      "filename": "632.png",
+      "score": 3.78
+    },
+    {
+      "filename": "633.png",
+      "score": 4.56
+    },
+    {
+      "filename": "634.png",
+      "score": 4.27
+    },
+    {
+      "filename": "635.png",
+      "score": 4.33
+    },
+    {
+      "filename": "637.png",
+      "score": 4.06
+    },
+    {
+      "filename": "638.png",
+      "score": 4.02
+    },
+    {
+      "filename": "639.png",
+      "score": 4.59
+    },
+    {
+      "filename": "640.png",
+      "score": 4.55
+    },
+    {
+      "filename": "641.png",
+      "score": 4.15
+    },
+    {
+      "filename": "642.png",
+      "score": 4.13
+    },
+    {
+      "filename": "643.png",
+      "score": 4.27
+    },
+    {
+      "filename": "644.png",
+      "score": 4.29
+    },
+    {
+      "filename": "645.png",
+      "score": 4.39
+    },
+    {
+      "filename": "646.png",
+      "score": 4.54
+    },
+    {
+      "filename": "647.png",
+      "score": 5.39
+    },
+    {
+      "filename": "648.png",
+      "score": 3.92
+    },
+    {
+      "filename": "649.png",
+      "score": 4.35
+    },
+    {
+      "filename": "650.png",
+      "score": 4.65
+    },
+    {
+      "filename": "651.png",
+      "score": 4.27
+    },
+    {
+      "filename": "652.png",
+      "score": 4.59
+    },
+    {
+      "filename": "653.png",
+      "score": 3.68
+    },
+    {
+      "filename": "654.png",
+      "score": 4.52
+    },
+    {
+      "filename": "657.png",
+      "score": 5.04
+    },
+    {
+      "filename": "658.png",
+      "score": 4.17
+    },
+    {
+      "filename": "659.png",
+      "score": 4.78
+    },
+    {
+      "filename": "661.png",
+      "score": 4.31
+    },
+    {
+      "filename": "662.png",
+      "score": 5.14
+    },
+    {
+      "filename": "664.png",
+      "score": 4.12
+    },
+    {
+      "filename": "665.png",
+      "score": 4.2
+    },
+    {
+      "filename": "666.png",
+      "score": 4.7
+    },
+    {
+      "filename": "667.png",
+      "score": 4.52
+    },
+    {
+      "filename": "668.png",
+      "score": 4.43
+    },
+    {
+      "filename": "669.png",
+      "score": 4.52
+    },
+    {
+      "filename": "670.png",
+      "score": 4.48
+    },
+    {
+      "filename": "671.png",
+      "score": 5.16
+    },
+    {
+      "filename": "672.png",
+      "score": 4.44
+    },
+    {
+      "filename": "673.png",
+      "score": 4.94
+    },
+    {
+      "filename": "674.png",
+      "score": 4.87
+    },
+    {
+      "filename": "675.png",
+      "score": 4.37
+    },
+    {
+      "filename": "676.png",
+      "score": 4.34
+    },
+    {
+      "filename": "677.png",
+      "score": 4.2
+    },
+    {
+      "filename": "678.png",
+      "score": 4.35
+    },
+    {
+      "filename": "679.png",
+      "score": 4.33
+    },
+    {
+      "filename": "680.png",
+      "score": 3.92
+    },
+    {
+      "filename": "681.png",
+      "score": 4.91
+    },
+    {
+      "filename": "682.png",
+      "score": 4.02
+    },
+    {
+      "filename": "683.png",
+      "score": 4.65
+    },
+    {
+      "filename": "684.png",
+      "score": 4.37
+    },
+    {
+      "filename": "685.png",
+      "score": 4.02
+    },
+    {
+      "filename": "686.png",
+      "score": 4.12
+    },
+    {
+      "filename": "687.png",
+      "score": 4.31
+    },
+    {
+      "filename": "688.png",
+      "score": 3.99
+    },
+    {
+      "filename": "689.png",
+      "score": 2.98
+    },
+    {
+      "filename": "690.png",
+      "score": 4.5
+    },
+    {
+      "filename": "691.png",
+      "score": 4.66
+    },
+    {
+      "filename": "692.png",
+      "score": 3.86
+    },
+    {
+      "filename": "693.png",
+      "score": 5.37
+    },
+    {
+      "filename": "694.png",
+      "score": 4.6
+    },
+    {
+      "filename": "695.png",
+      "score": 4.12
+    },
+    {
+      "filename": "696.png",
+      "score": 3.93
+    },
+    {
+      "filename": "697.png",
+      "score": 4.93
+    },
+    {
+      "filename": "698.png",
+      "score": 4.16
+    },
+    {
+      "filename": "699.png",
+      "score": 5.1
+    },
+    {
+      "filename": "700.png",
+      "score": 4.56
+    },
+    {
+      "filename": "701.png",
+      "score": 4.79
+    },
+    {
+      "filename": "702.png",
+      "score": 4.54
+    },
+    {
+      "filename": "703.png",
+      "score": 3.65
+    },
+    {
+      "filename": "704.png",
+      "score": 4.3
+    },
+    {
+      "filename": "705.png",
+      "score": 3.72
+    },
+    {
+      "filename": "706.png",
+      "score": 4.02
+    },
+    {
+      "filename": "707.png",
+      "score": 4.29
+    },
+    {
+      "filename": "708.png",
+      "score": 4.81
+    },
+    {
+      "filename": "709.png",
+      "score": 4.25
+    },
+    {
+      "filename": "710.png",
+      "score": 4.69
+    },
+    {
+      "filename": "711.png",
+      "score": 4.17
+    },
+    {
+      "filename": "713.png",
+      "score": 4.86
+    },
+    {
+      "filename": "714.png",
+      "score": 3.67
+    },
+    {
+      "filename": "715.png",
+      "score": 3.9
+    },
+    {
+      "filename": "716.png",
+      "score": 4.32
+    },
+    {
+      "filename": "717.png",
+      "score": 4.64
+    },
+    {
+      "filename": "718.png",
+      "score": 4.34
+    },
+    {
+      "filename": "719.png",
+      "score": 3.82
+    },
+    {
+      "filename": "720.png",
+      "score": 4.69
+    },
+    {
+      "filename": "721.png",
+      "score": 4.48
+    },
+    {
+      "filename": "722.png",
+      "score": 4.56
+    },
+    {
+      "filename": "723.png",
+      "score": 4.76
+    },
+    {
+      "filename": "724.png",
+      "score": 4.74
+    },
+    {
+      "filename": "725.png",
+      "score": 4.06
+    },
+    {
+      "filename": "726.png",
+      "score": 4.43
+    },
+    {
+      "filename": "727.png",
+      "score": 4.64
+    },
+    {
+      "filename": "728.png",
+      "score": 4.46
+    },
+    {
+      "filename": "729.png",
+      "score": 4.51
+    },
+    {
+      "filename": "730.png",
+      "score": 4.02
+    },
+    {
+      "filename": "731.png",
+      "score": 4.85
+    },
+    {
+      "filename": "732.png",
+      "score": 4.36
+    },
+    {
+      "filename": "733.png",
+      "score": 4.62
+    },
+    {
+      "filename": "734.png",
+      "score": 4.19
+    },
+    {
+      "filename": "735.png",
+      "score": 4.17
+    },
+    {
+      "filename": "736.png",
+      "score": 4.28
+    },
+    {
+      "filename": "737.png",
+      "score": 4.61
+    },
+    {
+      "filename": "738.png",
+      "score": 4.44
+    },
+    {
+      "filename": "739.png",
+      "score": 4.81
+    },
+    {
+      "filename": "740.png",
+      "score": 4.48
+    },
+    {
+      "filename": "741.png",
+      "score": 4.31
+    },
+    {
+      "filename": "742.png",
+      "score": 4.78
+    },
+    {
+      "filename": "743.png",
+      "score": 4.41
+    },
+    {
+      "filename": "744.png",
+      "score": 4.31
+    },
+    {
+      "filename": "745.png",
+      "score": 4.45
+    },
+    {
+      "filename": "746.png",
+      "score": 5.22
+    },
+    {
+      "filename": "747.png",
+      "score": 5.02
+    },
+    {
+      "filename": "748.png",
+      "score": 4.54
+    },
+    {
+      "filename": "749.png",
+      "score": 4.07
+    },
+    {
+      "filename": "750.png",
+      "score": 4.19
+    },
+    {
+      "filename": "751.png",
+      "score": 5.16
+    },
+    {
+      "filename": "752.png",
+      "score": 4.63
+    },
+    {
+      "filename": "753.png",
+      "score": 4.77
+    },
+    {
+      "filename": "754.png",
+      "score": 4.79
+    },
+    {
+      "filename": "755.png",
+      "score": 4.33
+    },
+    {
+      "filename": "756.png",
+      "score": 4.82
+    },
+    {
+      "filename": "757.png",
+      "score": 4.44
+    },
+    {
+      "filename": "758.png",
+      "score": 4.45
+    },
+    {
+      "filename": "759.png",
+      "score": 4.22
+    },
+    {
+      "filename": "760.png",
+      "score": 4.56
+    },
+    {
+      "filename": "761.png",
+      "score": 4.52
+    },
+    {
+      "filename": "762.png",
+      "score": 4.31
+    },
+    {
+      "filename": "763.png",
+      "score": 4.32
+    },
+    {
+      "filename": "764.png",
+      "score": 4.46
+    },
+    {
+      "filename": "765.png",
+      "score": 4.09
+    },
+    {
+      "filename": "766.png",
+      "score": 5.1
+    },
+    {
+      "filename": "767.png",
+      "score": 4.75
+    },
+    {
+      "filename": "768.png",
+      "score": 4.32
+    },
+    {
+      "filename": "769.png",
+      "score": 4.27
+    },
+    {
+      "filename": "771.png",
+      "score": 3.72
+    },
+    {
+      "filename": "772.png",
+      "score": 4.13
+    },
+    {
+      "filename": "773.png",
+      "score": 4.2
+    },
+    {
+      "filename": "774.png",
+      "score": 3.76
+    },
+    {
+      "filename": "775.png",
+      "score": 4.82
+    },
+    {
+      "filename": "776.png",
+      "score": 4.35
+    },
+    {
+      "filename": "777.png",
+      "score": 4.43
+    },
+    {
+      "filename": "778.png",
+      "score": 4.59
+    },
+    {
+      "filename": "779.png",
+      "score": 4.27
+    },
+    {
+      "filename": "780.png",
+      "score": 4.14
+    },
+    {
+      "filename": "781.png",
+      "score": 4.87
+    },
+    {
+      "filename": "782.png",
+      "score": 5.07
+    },
+    {
+      "filename": "783.png",
+      "score": 4.21
+    },
+    {
+      "filename": "784.png",
+      "score": 3.93
+    },
+    {
+      "filename": "785.png",
+      "score": 4.0
+    },
+    {
+      "filename": "786.png",
+      "score": 4.72
+    },
+    {
+      "filename": "787.png",
+      "score": 4.11
+    },
+    {
+      "filename": "788.png",
+      "score": 4.6
+    },
+    {
+      "filename": "789.png",
+      "score": 3.93
+    },
+    {
+      "filename": "790.png",
+      "score": 4.85
+    },
+    {
+      "filename": "791.png",
+      "score": 4.47
+    },
+    {
+      "filename": "792.png",
+      "score": 4.78
+    },
+    {
+      "filename": "793.png",
+      "score": 4.77
+    },
+    {
+      "filename": "794.png",
+      "score": 4.27
+    },
+    {
+      "filename": "795.png",
+      "score": 4.34
+    },
+    {
+      "filename": "796.png",
+      "score": 4.06
+    },
+    {
+      "filename": "797.png",
+      "score": 4.06
+    },
+    {
+      "filename": "798.png",
+      "score": 4.68
+    },
+    {
+      "filename": "799.png",
+      "score": 3.96
+    },
+    {
+      "filename": "800.png",
+      "score": 4.8
+    },
+    {
+      "filename": "801.png",
+      "score": 4.71
+    },
+    {
+      "filename": "802.png",
+      "score": 4.29
+    },
+    {
+      "filename": "803.png",
+      "score": 5.0
+    },
+    {
+      "filename": "806.png",
+      "score": 4.47
+    },
+    {
+      "filename": "807.png",
+      "score": 4.38
+    },
+    {
+      "filename": "808.png",
+      "score": 4.51
+    },
+    {
+      "filename": "809.png",
+      "score": 4.4
+    },
+    {
+      "filename": "810.png",
+      "score": 3.91
+    },
+    {
+      "filename": "811.png",
+      "score": 4.4
+    },
+    {
+      "filename": "812.png",
+      "score": 4.38
+    },
+    {
+      "filename": "813.png",
+      "score": 4.81
+    },
+    {
+      "filename": "814.png",
+      "score": 4.82
+    },
+    {
+      "filename": "815.png",
+      "score": 4.24
+    },
+    {
+      "filename": "816.png",
+      "score": 4.36
+    },
+    {
+      "filename": "817.png",
+      "score": 3.87
+    },
+    {
+      "filename": "818.png",
+      "score": 4.3
+    },
+    {
+      "filename": "819.png",
+      "score": 2.85
+    },
+    {
+      "filename": "820.png",
+      "score": 4.75
+    },
+    {
+      "filename": "821.png",
+      "score": 4.3
+    },
+    {
+      "filename": "822.png",
+      "score": 4.43
+    },
+    {
+      "filename": "823.png",
+      "score": 5.19
+    },
+    {
+      "filename": "824.png",
+      "score": 4.65
+    },
+    {
+      "filename": "825.png",
+      "score": 3.94
+    },
+    {
+      "filename": "826.png",
+      "score": 4.17
+    },
+    {
+      "filename": "827.png",
+      "score": 4.74
+    },
+    {
+      "filename": "828.png",
+      "score": 4.31
+    },
+    {
+      "filename": "829.png",
+      "score": 4.6
+    },
+    {
+      "filename": "830.png",
+      "score": 4.37
+    },
+    {
+      "filename": "831.png",
+      "score": 4.63
+    },
+    {
+      "filename": "832.png",
+      "score": 5.13
+    },
+    {
+      "filename": "833.png",
+      "score": 4.19
+    },
+    {
+      "filename": "834.png",
+      "score": 4.42
+    },
+    {
+      "filename": "836.png",
+      "score": 3.87
+    },
+    {
+      "filename": "837.png",
+      "score": 3.68
+    },
+    {
+      "filename": "838.png",
+      "score": 4.89
+    },
+    {
+      "filename": "839.png",
+      "score": 4.38
+    },
+    {
+      "filename": "840.png",
+      "score": 4.26
+    },
+    {
+      "filename": "841.png",
+      "score": 5.35
+    },
+    {
+      "filename": "842.png",
+      "score": 4.5
+    },
+    {
+      "filename": "843.png",
+      "score": 4.62
+    },
+    {
+      "filename": "844.png",
+      "score": 4.26
+    },
+    {
+      "filename": "845.png",
+      "score": 4.59
+    },
+    {
+      "filename": "846.png",
+      "score": 4.75
+    },
+    {
+      "filename": "848.png",
+      "score": 3.92
+    },
+    {
+      "filename": "849.png",
+      "score": 4.32
+    },
+    {
+      "filename": "850.png",
+      "score": 3.84
+    },
+    {
+      "filename": "851.png",
+      "score": 3.65
+    },
+    {
+      "filename": "852.png",
+      "score": 4.27
+    },
+    {
+      "filename": "853.png",
+      "score": 4.86
+    },
+    {
+      "filename": "854.png",
+      "score": 4.92
+    },
+    {
+      "filename": "855.png",
+      "score": 3.5
+    },
+    {
+      "filename": "856.png",
+      "score": 3.99
+    },
+    {
+      "filename": "857.png",
+      "score": 4.25
+    },
+    {
+      "filename": "858.png",
+      "score": 4.32
+    },
+    {
+      "filename": "859.png",
+      "score": 4.22
+    },
+    {
+      "filename": "860.png",
+      "score": 4.87
+    },
+    {
+      "filename": "861.png",
+      "score": 4.9
+    },
+    {
+      "filename": "862.png",
+      "score": 4.71
+    },
+    {
+      "filename": "863.png",
+      "score": 4.69
+    },
+    {
+      "filename": "864.png",
+      "score": 4.17
+    },
+    {
+      "filename": "865.png",
+      "score": 3.95
+    },
+    {
+      "filename": "866.png",
+      "score": 4.58
+    },
+    {
+      "filename": "867.png",
+      "score": 5.23
+    },
+    {
+      "filename": "868.png",
+      "score": 5.25
+    },
+    {
+      "filename": "869.png",
+      "score": 4.18
+    },
+    {
+      "filename": "870.png",
+      "score": 4.87
+    },
+    {
+      "filename": "871.png",
+      "score": 4.37
+    },
+    {
+      "filename": "873.png",
+      "score": 4.58
+    },
+    {
+      "filename": "874.png",
+      "score": 4.63
+    },
+    {
+      "filename": "875.png",
+      "score": 4.55
+    },
+    {
+      "filename": "876.png",
+      "score": 4.72
+    },
+    {
+      "filename": "877.png",
+      "score": 4.46
+    },
+    {
+      "filename": "878.png",
+      "score": 4.92
+    },
+    {
+      "filename": "879.png",
+      "score": 4.36
+    },
+    {
+      "filename": "880.png",
+      "score": 4.28
+    },
+    {
+      "filename": "881.png",
+      "score": 4.81
+    },
+    {
+      "filename": "882.png",
+      "score": 4.56
+    },
+    {
+      "filename": "883.png",
+      "score": 4.69
+    },
+    {
+      "filename": "884.png",
+      "score": 4.38
+    },
+    {
+      "filename": "885.png",
+      "score": 4.69
+    },
+    {
+      "filename": "886.png",
+      "score": 4.43
+    },
+    {
+      "filename": "887.png",
+      "score": 4.37
+    },
+    {
+      "filename": "888.png",
+      "score": 3.79
+    },
+    {
+      "filename": "889.png",
+      "score": 4.37
+    },
+    {
+      "filename": "890.png",
+      "score": 4.34
+    },
+    {
+      "filename": "891.png",
+      "score": 4.07
+    },
+    {
+      "filename": "892.png",
+      "score": 4.17
+    },
+    {
+      "filename": "893.png",
+      "score": 4.52
+    },
+    {
+      "filename": "894.png",
+      "score": 4.07
+    },
+    {
+      "filename": "895.png",
+      "score": 4.44
+    },
+    {
+      "filename": "896.png",
+      "score": 4.26
+    },
+    {
+      "filename": "897.png",
+      "score": 4.33
+    },
+    {
+      "filename": "898.png",
+      "score": 4.52
+    },
+    {
+      "filename": "899.png",
+      "score": 4.91
+    },
+    {
+      "filename": "900.png",
+      "score": 4.52
+    }
+  ],
+  "total": 864,
+  "model_path": "C:\\model\\shunk031\\aesthetics-predictor-v2-sac-logos-ava1-l14-linearMSE",
+  "score_precision": 2
+}

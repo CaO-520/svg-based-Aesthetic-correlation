@@ -1,0 +1,11 @@
+<svg id="Logo"
+    xmlns="http://www.w3.org/2000/svg" style="enable-background:new 0 0 256 256;" viewBox="0 0 256 256" width="95" height="95" version="1.1">
+    <style type="text/css">
+	    #Logo polygon{fill:#79F2F3;}
+    </style>
+    <polygon points="3,253 162,253 82.5,173.5" />
+    <polygon points="126,126 38.9,126 82.5,168.8" />
+    <polygon points="126.1,38.8 126.1,125.9 168.9,82.4" />
+    <polygon points="173.7,82.3 253,161.7 253,3" />
+    <polygon points="84.8,171.2 166.7,253 166.7,253 253,253 253,166.5 171.3,84.7" />
+</svg>

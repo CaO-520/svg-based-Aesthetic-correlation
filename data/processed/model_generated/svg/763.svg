@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-100 -100 200 200">
+  <path d="M-50,20 A40,40 0 1,1 -50,100 A40,40 0 1,1 -50,20 Z M-50,40 A20,20 0 1,1 -50,80 A20,20 0 1,1 -50,40 Z" fill="#4D4D4D" fill-rule="evenodd"/>
+  <path d="M50,20 A40,40 0 1,1 50,100 A40,40 0 1,1 50,20 Z M50,40 A20,20 0 1,1 50,80 A20,20 0 1,1 50,40 Z" fill="#4D4D4D" fill-rule="evenodd"/>
+  <path d="M-50,20 L0,0 L-80,-60 Z" fill="#4D4D4D"/>
+  <path d="M50,20 L0,0 L80,-60 Z" fill="#4D4D4D"/>
+</svg>

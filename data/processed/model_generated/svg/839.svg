@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <text x="400" y="50" font-family="Arial" font-size="24" text-anchor="middle" font-weight="bold">Drive Vendor</text>
+  <path d="M400,300 L600,300 A200,200 0 0,1 274,144 Z" fill="#FFA500"/>
+  <path d="M400,300 L274,144 A200,200 0 0,1 205,346 Z" fill="#1E90FF"/>
+  <path d="M400,300 L205,346 A200,200 0 0,1 289,466 Z" fill="#32CD32"/>
+  <path d="M400,300 L289,466 A200,200 0 0,1 431,498 Z" fill="#FF4500"/>
+  <path d="M400,300 L431,498 A200,200 0 0,1 557,424 Z" fill="#FFD700"/>
+  <path d="M400,300 L557,424 A200,200 0 0,1 600,302 Z" fill="#9370DB"/>
+  <line x1="486" y1="120" x2="620" y2="200" stroke="black" stroke-width="1"/>
+  <text x="620" y="200" font-family="Arial" font-size="12" text-anchor="start">Others (35.8%)</text>
+  <line x1="350" y1="350" x2="600" y2="400" stroke="black" stroke-width="1"/>
+  <text x="600" y="400" font-family="Arial" font-size="12" text-anchor="start">WDC (17.9%)</text>
+  <line x1="350" y1="450" x2="400" y2="500" stroke="black" stroke-width="1"/>
+  <text x="400" y="500" font-family="Arial" font-size="12" text-anchor="middle">Toshiba (11.9%)</text>
+  <line x1="300" y1="480" x2="250" y2="450" stroke="black" stroke-width="1"/>
+  <text x="250" y="450" font-family="Arial" font-size="12" text-anchor="end">Seagate (11.9%)</text>
+  <line x1="450" y1="450" x2="200" y2="300" stroke="black" stroke-width="1"/>
+  <text x="200" y="300" font-family="Arial" font-size="12" text-anchor="end">Intel (11.9%)</text>
+  <line x1="350" y1="200" x2="250" y2="150" stroke="black" stroke-width="1"/>
+  <text x="250" y="150" font-family="Arial" font-size="12" text-anchor="end">Unknown (10.4%)</text>
+</svg>

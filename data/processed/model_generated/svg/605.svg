@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 100">
+  <path d="M20 40 L30 20 L50 10 L70 20 L80 40 Z" fill="#FF0000"/>
+  <circle cx="30" cy="20" r="3" fill="#FF0000"/>
+  <circle cx="50" cy="10" r="3" fill="#FF0000"/>
+  <circle cx="70" cy="20" r="3" fill="#FF0000"/>
+  <text x="100" y="45" font-family="Arial, sans-serif" font-size="40" font-weight="bold" fill="#FF0000">KING</text>
+</svg>

@@ -1,0 +1,6 @@
+<svg width="300" height="200" viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg">
+  <text x="20" y="40" font-size="32" font-weight="bold" fill="black">2,476</text>
+  <text x="20" y="70" font-size="16" fill="#888888">Category label</text>
+  <path d="M20,120 L60,140 L100,100 L140,130 L180,80 L220,120 L260,100 L280,120 L280,180 L20,180 Z" fill="#e6f7ff"/>
+  <path d="M20,120 L60,140 L100,100 L140,130 L180,80 L220,120 L260,100 L280,120" stroke="#1890ff" stroke-width="2" fill="none"/>
+</svg>

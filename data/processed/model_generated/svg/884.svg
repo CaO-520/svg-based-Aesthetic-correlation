@@ -1,0 +1,18 @@
+<svg width="400" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#00008B"/>
+    </marker>
+  </defs>
+  <rect x="100" y="40" width="200" height="40" fill="#CCCCCC" stroke="black"/>
+  <text x="200" y="55" text-anchor="middle" font-size="12" fill="black">src/faodel/lofaodel</text>
+  <text x="200" y="70" text-anchor="middle" font-size="12" fill="black">_PropertySerialization.h</text>
+  <rect x="40" y="120" width="150" height="30" fill="white" stroke="black"/>
+  <text x="115" y="135" text-anchor="middle" font-size="12" fill="black">src/faodel/lofaodel</text>
+  <text x="115" y="150" text-anchor="middle" font-size="12" fill="black">_DatabaseIO.C</text>
+  <rect x="210" y="120" width="150" height="30" fill="white" stroke="black"/>
+  <text x="285" y="135" text-anchor="middle" font-size="12" fill="black">src/faodel/lofaodel</text>
+  <text x="285" y="150" text-anchor="middle" font-size="12" fill="black">_PropertySerialization.C</text>
+  <line x1="115" y1="120" x2="200" y2="80" stroke="#00008B" stroke-width="1" marker-end="url(#arrow)"/>
+  <line x1="285" y1="120" x2="200" y2="80" stroke="#00008B" stroke-width="1" marker-end="url(#arrow)"/>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 150">
+  <rect x="5" y="5" width="90" height="140" fill="#F0F5F8" stroke="#6A8D9D" stroke-width="1.5"/>
+  <path d="M95 5 L75 25 L95 25 Z" fill="#FFFFFF" stroke="#6A8D9D" stroke-width="1.5"/>
+  <text x="50" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#4A6B7D" font-weight="bold">WEBINFO</text>
+</svg>

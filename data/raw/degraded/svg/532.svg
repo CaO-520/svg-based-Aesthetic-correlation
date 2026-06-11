@@ -1,0 +1,107 @@
+<svg width="433pt" height="215pt"
+ viewBox="0.00 0.00 433.00 215.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 211)">
+<title>RenderThing</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-211 429,-211 429,4 -4,4"/>
+
+<g id="node1" class="node">
+<title>Node1</title>
+<g id="a_node1"><a xlink:title=" ">
+<polygon fill="#bfbfbf" stroke="#000000" points="144,-.5 144,-57.5 222,-57.5 222,-.5 144,-.5"/>
+<text text-anchor="middle" x="183" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">RenderThing</text>
+<polyline fill="none" stroke="#000000" points="144,-38.5 222,-38.5 "/>
+<text text-anchor="middle" x="183" y="-26.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"> </text>
+<polyline fill="none" stroke="#000000" points="144,-19.5 222,-19.5 "/>
+<text text-anchor="middle" x="183" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"> </text>
+</a>
+</g>
+</g>
+
+<g id="node2" class="node">
+<title>Node2</title>
+<g id="a_node2"><a xlink:title=" ">
+<polygon fill="#ffffff" stroke="#bfbfbf" points="0,-149.5 0,-206.5 50,-206.5 50,-149.5 0,-149.5"/>
+<text text-anchor="middle" x="25" y="-194.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">double</text>
+<polyline fill="none" stroke="#bfbfbf" points="0,-187.5 50,-187.5 "/>
+<text text-anchor="middle" x="25" y="-175.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="0,-168.5 50,-168.5 "/>
+<text text-anchor="middle" x="25" y="-156.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"> </text>
+</a>
+</g>
+</g>
+
+<g id="edge1" class="edge">
+<title>Node2&#45;&gt;Node1</title>
+<path fill="none" stroke="#404040" d="M20.2821,-149.3051C18.2777,-126.9071 19.4477,-96.2862 36,-76 48.3805,-60.8266 94.5526,-47.657 131.8885,-39.1502"/>
+<polygon fill="none" stroke="#404040" points="131.928,-39.1415 136.925,-33.9424 143.646,-36.5554 138.649,-41.7545 131.928,-39.1415"/>
+<text text-anchor="middle" x="71" y="-106.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"> +printerScale</text>
+<text text-anchor="middle" x="71" y="-95.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">+dpi</text>
+</g>
+
+<g id="node3" class="node">
+<title>Node3</title>
+<g id="a_node3"><a xlink:title=" ">
+<polygon fill="#ffffff" stroke="#bfbfbf" points="92,-149.5 92,-206.5 144,-206.5 144,-149.5 92,-149.5"/>
+<text text-anchor="middle" x="118" y="-194.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">QRectF</text>
+<polyline fill="none" stroke="#bfbfbf" points="92,-187.5 144,-187.5 "/>
+<text text-anchor="middle" x="118" y="-175.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="92,-168.5 144,-168.5 "/>
+<text text-anchor="middle" x="118" y="-156.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"> </text>
+</a>
+</g>
+</g>
+
+<g id="edge2" class="edge">
+<title>Node3&#45;&gt;Node1</title>
+<path fill="none" stroke="#404040" d="M111.6614,-149.097C108.4916,-127.7226 107.4501,-98.5369 119,-76 122.7596,-68.664 128.2547,-62.1908 134.4694,-56.5775"/>
+<polygon fill="none" stroke="#404040" points="134.6045,-56.4694 136.7876,-49.5967 143.9713,-48.9685 141.7882,-55.8412 134.6045,-56.4694"/>
+<text text-anchor="middle" x="172.5" y="-112" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"> +itemsBoundingRect</text>
+<text text-anchor="middle" x="172.5" y="-101" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">+offsetRect</text>
+<text text-anchor="middle" x="172.5" y="-90" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">+imageRect</text>
+</g>
+
+<g id="node4" class="node">
+<title>Node4</title>
+<g id="a_node4"><a xlink:title=" ">
+<polygon fill="#ffffff" stroke="#bfbfbf" points="229,-149.5 229,-206.5 267,-206.5 267,-149.5 229,-149.5"/>
+<text text-anchor="middle" x="248" y="-194.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">bool</text>
+<polyline fill="none" stroke="#bfbfbf" points="229,-187.5 267,-187.5 "/>
+<text text-anchor="middle" x="248" y="-175.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="229,-168.5 267,-168.5 "/>
+<text text-anchor="middle" x="248" y="-156.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"> </text>
+</a>
+</g>
+</g>
+
+<g id="edge3" class="edge">
+<title>Node4&#45;&gt;Node1</title>
+<path fill="none" stroke="#404040" d="M245.8728,-149.3777C243.3584,-128.1465 237.8868,-99.0171 226,-76 224.4823,-73.0613 222.7325,-70.1678 220.8253,-67.349"/>
+<polygon fill="none" stroke="#404040" points="220.6206,-67.0793 213.8067,-64.7191 213.3646,-57.5215 220.1785,-59.8818 220.6206,-67.0793"/>
+<text text-anchor="middle" x="294.5" y="-123" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"> +hideTerminalPoints</text>
+<text text-anchor="middle" x="294.5" y="-112" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">+renderBlocker</text>
+<text text-anchor="middle" x="294.5" y="-101" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">+selectedItems</text>
+<text text-anchor="middle" x="294.5" y="-90" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">+blackOnly</text>
+<text text-anchor="middle" x="294.5" y="-79" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">+empty</text>
+</g>
+
+<g id="node5" class="node">
+<title>Node5</title>
+<g id="a_node5"><a xlink:title=" ">
+<polygon fill="#ffffff" stroke="#bfbfbf" points="327,-149.5 327,-206.5 425,-206.5 425,-149.5 327,-149.5"/>
+<text text-anchor="middle" x="376" y="-194.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">QGraphicsItem *</text>
+<polyline fill="none" stroke="#bfbfbf" points="327,-187.5 425,-187.5 "/>
+<text text-anchor="middle" x="376" y="-175.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"> </text>
+<polyline fill="none" stroke="#bfbfbf" points="327,-168.5 425,-168.5 "/>
+<text text-anchor="middle" x="376" y="-156.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"> </text>
+</a>
+</g>
+</g>
+
+<g id="edge4" class="edge">
+<title>Node5&#45;&gt;Node1</title>
+<path fill="none" stroke="#404040" d="M376.4271,-149.2075C375.1918,-126.4495 369.7687,-95.3875 351,-76 334.8119,-59.2783 277.5098,-45.6945 234.294,-37.5078"/>
+<polygon fill="none" stroke="#404040" points="234.0454,-37.4623 227.4213,-40.3121 222.243,-35.2936 228.8671,-32.4438 234.0454,-37.4623"/>
+<text text-anchor="middle" x="394" y="-101" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"> +board</text>
+</g>
+</g>
+</svg>

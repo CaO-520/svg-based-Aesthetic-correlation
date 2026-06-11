@@ -1,0 +1,102 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" fill="white"/>
+  <g transform="translate(50, 50)">
+    <g stroke="#cccccc" stroke-width="1">
+      <line x1="0" y1="0" x2="700" y2="0"/>
+      <line x1="0" y1="0" x2="0" y2="500"/>
+      <line x1="0" y1="100" x2="700" y2="100"/>
+      <line x1="0" y1="200" x2="700" y2="200"/>
+      <line x1="0" y1="300" x2="700" y2="300"/>
+      <line x1="0" y1="400" x2="700" y2="400"/>
+      <line x1="0" y1="500" x2="700" y2="500"/>
+      <line x1="140" y1="0" x2="140" y2="500"/>
+      <line x1="280" y1="0" x2="280" y2="500"/>
+      <line x1="420" y1="0" x2="420" y2="500"/>
+      <line x1="560" y1="0" x2="560" y2="500"/>
+      <line x1="700" y1="0" x2="700" y2="500"/>
+    </g>
+    <g stroke="black" stroke-width="1.5">
+      <line x1="0" y1="500" x2="700" y2="500"/>
+      <line x1="0" y1="0" x2="0" y2="500"/>
+    </g>
+    <g font-family="Arial" font-size="12" text-anchor="middle">
+      <text x="140" y="525">10</text>
+      <text x="280" y="525">20</text>
+      <text x="420" y="525">30</text>
+      <text x="560" y="525">40</text>
+      <text x="700" y="525">50</text>
+      <text x="720" y="525">iterations (x 10^6)</text>
+      <text x="-25" y="500" transform="rotate(-90, -25, 500)">total cycles (ns)</text>
+      <text x="0" y="500" text-anchor="end" dy="5">0.0</text>
+      <text x="0" y="400" text-anchor="end" dy="5">20.0</text>
+      <text x="0" y="300" text-anchor="end" dy="5">40.0</text>
+      <text x="0" y="200" text-anchor="end" dy="5">60.0</text>
+      <text x="0" y="100" text-anchor="end" dy="5">80.0</text>
+      <text x="0" y="0" text-anchor="end" dy="5">100.0</text>
+    </g>
+    <text x="350" y="-20" text-anchor="middle" font-family="Arial" font-weight="bold" font-size="14">u64 same input/u64 : midpoint_via_cpp_20_std_implementation</text>
+    <g fill="#0066cc">
+      <circle cx="0" cy="500" r="3"/>
+      <circle cx="14" cy="496" r="3"/>
+      <circle cx="28" cy="492" r="3"/>
+      <circle cx="42" cy="488" r="3"/>
+      <circle cx="56" cy="484" r="3"/>
+      <circle cx="70" cy="480" r="3"/>
+      <circle cx="84" cy="476" r="3"/>
+      <circle cx="98" cy="472" r="3"/>
+      <circle cx="112" cy="468" r="3"/>
+      <circle cx="126" cy="464" r="3"/>
+      <circle cx="140" cy="460" r="3"/>
+      <circle cx="154" cy="456" r="3"/>
+      <circle cx="168" cy="452" r="3"/>
+      <circle cx="182" cy="448" r="3"/>
+      <circle cx="196" cy="444" r="3"/>
+      <circle cx="210" cy="440" r="3"/>
+      <circle cx="224" cy="436" r="3"/>
+      <circle cx="238" cy="432" r="3"/>
+      <circle cx="252" cy="428" r="3"/>
+      <circle cx="266" cy="424" r="3"/>
+      <circle cx="280" cy="420" r="3"/>
+      <circle cx="294" cy="416" r="3"/>
+      <circle cx="308" cy="412" r="3"/>
+      <circle cx="322" cy="408" r="3"/>
+      <circle cx="336" cy="404" r="3"/>
+      <circle cx="350" cy="400" r="3"/>
+      <circle cx="364" cy="396" r="3"/>
+      <circle cx="378" cy="392" r="3"/>
+      <circle cx="392" cy="388" r="3"/>
+      <circle cx="406" cy="384" r="3"/>
+      <circle cx="420" cy="380" r="3"/>
+      <circle cx="434" cy="376" r="3"/>
+      <circle cx="448" cy="372" r="3"/>
+      <circle cx="462" cy="368" r="3"/>
+      <circle cx="476" cy="364" r="3"/>
+      <circle cx="490" cy="360" r="3"/>
+      <circle cx="504" cy="356" r="3"/>
+      <circle cx="518" cy="352" r="3"/>
+      <circle cx="532" cy="348" r="3"/>
+      <circle cx="546" cy="344" r="3"/>
+      <circle cx="560" cy="340" r="3"/>
+      <circle cx="574" cy="336" r="3"/>
+      <circle cx="588" cy="332" r="3"/>
+      <circle cx="602" cy="328" r="3"/>
+      <circle cx="616" cy="324" r="3"/>
+      <circle cx="630" cy="320" r="3"/>
+      <circle cx="644" cy="316" r="3"/>
+      <circle cx="658" cy="312" r="3"/>
+      <circle cx="672" cy="308" r="3"/>
+      <circle cx="686" cy="304" r="3"/>
+      <circle cx="700" cy="300" r="3"/>
+    </g>
+    <g stroke="#0066cc" stroke-width="2">
+      <line x1="0" y1="500" x2="700" y2="300"/>
+    </g>
+    <g font-family="Arial" font-size="12">
+      <rect x="550" y="20" width="120" height="40" fill="white" stroke="#cccccc" stroke-width="0.5"/>
+      <circle cx="560" cy="35" r="3" fill="#0066cc"/>
+      <text x="575" y="38">Sample</text>
+      <line x1="560" y1="55" x2="580" y2="55" stroke="#0066cc" stroke-width="2"/>
+      <text x="575" y="58">Linear regression</text>
+    </g>
+  </g>
+</svg>
