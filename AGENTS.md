@@ -2,7 +2,7 @@
 
 ## 云端同步
 
-- “从云端下载”：若本地干净，执行 `git fetch origin` 和 `git pull --ff-only origin main`；若本地有改动，先提醒用户。
+- “从云端下载”：若云端为准；若本地有改动，先提醒用户。
 - “上传到云端”：以本地为准；只看 Git 状态和文件列表，不读文件内容。
 - 除 `configs/API_KEY.txt` 和`configs/system_path.yaml` 外，所有代码、配置、数据、日志、输出、文档、脚本，以及删除/移动/重命名都要同步。
 - 永远不提交、不上传 `configs/API_KEY.txt`，`configs/system_path.yaml` ；推送前确认它未暂存。
