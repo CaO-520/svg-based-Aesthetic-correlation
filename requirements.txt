@@ -1,0 +1,12 @@
+datasets
+PyYAML
+playwright
+openai
+svgpathtools
+matplotlib
+beautifulsoup4
+lxml
+numpy
+torch
+Pillow
+transformers
