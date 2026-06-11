@@ -5,11 +5,10 @@ import numpy as np
 import torch
 from PIL import Image
 
+from path_config import get_aesthetic_model_dir
+
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
-MODEL_DIR = Path(
-    r"C:\model\shunk031\aesthetics-predictor-v2-sac-logos-ava1-l14-linearMSE"
-)
 IMAGE_PATH = PROJECT_ROOT / "outputs" / "test.png"
 HF_MODULES_CACHE = PROJECT_ROOT / ".cache" / "huggingface_modules"
 IMAGE_SIZE = 224
@@ -45,13 +44,14 @@ def main() -> None:
         raise FileNotFoundError(f"Image not found: {IMAGE_PATH}")
 
     device = "cuda" if torch.cuda.is_available() else "cpu"
-    config = AutoConfig.from_pretrained(MODEL_DIR, trust_remote_code=True)
+    model_dir = get_aesthetic_model_dir()
+    config = AutoConfig.from_pretrained(model_dir, trust_remote_code=True)
     model_class = get_class_from_dynamic_module(
         "modeling_v2.AestheticsPredictorV2Linear",
-        MODEL_DIR,
+        model_dir,
     )
     model = model_class.from_pretrained(
-        MODEL_DIR,
+        model_dir,
         config=config,
         trust_remote_code=True,
         torch_dtype="auto",

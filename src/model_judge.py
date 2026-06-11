@@ -10,11 +10,10 @@ import numpy as np
 import torch
 from PIL import Image
 
+from path_config import DEFAULT_SYSTEM_PATH_CONFIG, get_aesthetic_model_dir
+
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
-MODEL_DIR = Path(
-    r"C:\model\shunk031\aesthetics-predictor-v2-sac-logos-ava1-l14-linearMSE"
-)
 PROCESSED_DIR = PROJECT_ROOT / "data" / "processed"
 METADATA_DIR = PROJECT_ROOT / "data" / "metadata"
 OUTPUT_JSON_PATH = METADATA_DIR / "model_judge.json"
@@ -57,14 +56,14 @@ def preprocess_image(image_path: Path) -> torch.Tensor:
     return values
 
 
-def load_model(device: str) -> torch.nn.Module:
-    config = AutoConfig.from_pretrained(MODEL_DIR, trust_remote_code=True)
+def load_model(model_dir: Path, device: str) -> torch.nn.Module:
+    config = AutoConfig.from_pretrained(model_dir, trust_remote_code=True)
     model_class = get_class_from_dynamic_module(
         "modeling_v2.AestheticsPredictorV2Linear",
-        MODEL_DIR,
+        model_dir,
     )
     model = model_class.from_pretrained(
-        MODEL_DIR,
+        model_dir,
         config=config,
         trust_remote_code=True,
         torch_dtype="auto",
@@ -151,6 +150,12 @@ def main() -> None:
         default="auto",
         help="Inference device. Default: auto.",
     )
+    parser.add_argument(
+        "--system-path-config",
+        type=Path,
+        default=DEFAULT_SYSTEM_PATH_CONFIG,
+        help="Path to configs/system_path.yaml.",
+    )
     args = parser.parse_args()
 
     if args.batch_size <= 0:
@@ -164,7 +169,8 @@ def main() -> None:
     if device == "cuda" and not torch.cuda.is_available():
         raise RuntimeError("CUDA was requested but is not available.")
 
-    model = load_model(device)
+    model_dir = get_aesthetic_model_dir(args.system_path_config)
+    model = load_model(model_dir, device)
     categories = (args.category,) if args.category else CATEGORY_ORDER
 
     output: dict[str, Any] = {}
@@ -182,7 +188,7 @@ def main() -> None:
         total += len(category_results)
 
     output["total"] = total
-    output["model_path"] = str(MODEL_DIR)
+    output["model_path"] = str(model_dir)
     output["score_precision"] = 2
 
     METADATA_DIR.mkdir(parents=True, exist_ok=True)

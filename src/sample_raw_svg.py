@@ -11,7 +11,7 @@ from datasets import Dataset, DatasetDict, concatenate_datasets, load_dataset
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_CONFIG_PATH = PROJECT_ROOT / "configs" / "config.yaml"
-DEFAULT_DATASET_PATH = r"C:\dataset\starvector\svg-stack"
+DEFAULT_DATASET_PATH = PROJECT_ROOT / "data" / "datasets" / "svg-stack"
 RAW_DIR = PROJECT_ROOT / "data" / "raw"
 
 CATEGORY_ORDER = ("human_design", "degraded", "model_generated")
@@ -118,6 +118,7 @@ def main() -> None:
     )
     parser.add_argument(
         "--dataset",
+        type=Path,
         default=DEFAULT_DATASET_PATH,
         help="Local dataset path passed to datasets.load_dataset().",
     )
@@ -129,7 +130,7 @@ def main() -> None:
     plan = get_sampling_plan(config)
     sample_count = sum(plan.values())
 
-    dataset = as_dataset(load_dataset(args.dataset))
+    dataset = as_dataset(load_dataset(str(args.dataset)))
     if len(dataset) < sample_count:
         raise ValueError(
             f"Dataset has {len(dataset)} rows, but {sample_count} samples are required."
