@@ -1,9 +1,0 @@
-model_generation:
-  aihubmix:
-    qwen_model_id: "qwen3-vl-30b-a3b-thinking"
-    api_key: "sk-gs6xiWWIleyBX9phA571DdE3B0034416Bf4106F76aEcEfA6"
-    base_url: "https://aihubmix.com/v1"
-  aliyuncs:
-    qwen_model_id: "qwen3-vl-plus"
-    api_key: "sk-cdda6e092dc3404391d0ca9032ffece6"
-    base_url: "https://dashscope.aliyuncs.com/compatible-mode/v1"
